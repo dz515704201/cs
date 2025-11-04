@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-04 04:40:29,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-11-04 16:41:39,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -91,7 +91,7 @@ CCTV-8,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000000800
 CCTV-8,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=2
 CCTV-8,https://live.catvod.com/live.php?id=cctv8hd&token=d83ce874922f826aa980b709ddfcf134d7ec27f24c75243ab3188505f8017b27%3A1761940998%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-8,https://live.catvod.com/live.php?id=cctv8hd&token=935066fb608f7ef3e3bb43202907e2ed1b588d63d8e0cb46f3e3f86c4f562cf8%3A1761359343%3AMTIwLjIyNi4yMzcuMTI1
-CCTV-8,https://live.catvod.com/live.php?id=cctv8hd&token=a071f24c4a6c39136c86eb4552e0a072b1712202773b5e33e0fedc3ab2888632%3A1761382789%3AMTIwLjIyNi4yMzcuMTI1
+CCTV-8,https://live.catvod.com/live.php?id=cctv8hd&token=b7b12f0800d1a0597dc0d32eb8d998fcbd254a14cfad2387856a71fc28f9bcdd%3A1762245544%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/1.m3u8
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8
@@ -99,9 +99,9 @@ CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000000800
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/index.m3u8
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/1.m3u8
 CCTV-9,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=2
+CCTV-9,https://live.catvod.com/live.php?id=cctv9hd&token=c9a0b54edb86930794fa07618c7eb1ddac84d78b09f9582e6b32c6621fdb0b2a%3A1762245544%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-9,https://live.catvod.com/live.php?id=cctv9hd&token=6c75efaed80efa6101b0d4e7b83ec6cebada62f4e9cfc0223fed2613836da4cf%3A1761787829%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-9,https://live.catvod.com/live.php?id=cctv9hd&token=e83ebef573a86e84f136a98cc02f102c741ee99bb13a352b0f32018c40ededa6%3A1762158948%3AMTIwLjIyNy4zMi4xODE%3D
-CCTV-9,https://live.catvod.com/live.php?id=cctv9hd&token=d6503464eb5e735214d4e5c94563a2817ebeaa61f131843b8711422ed7f0cf29%3A1761818693%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-10,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
 CCTV-10,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/index.m3u8
 CCTV-10,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/main.m3u8
@@ -127,11 +127,11 @@ CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001001/000000010000000000080
 CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/index.m3u8
 CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/main.m3u8
 CCTV-12,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=2
+CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=9ba58609234fe98de7fde619e3de89efbba239772a869a94e8c04a503cf0e15a%3A1762245544%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=47765b7067bc65b433141afb09865d6791eecad802db1c333939a00b50cb2202%3A1761359343%3AMTIwLjIyNi4yMzcuMTI1
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=e71ba4c35bf07873b816fa2fc803b0799da9ba8e23c79442e3602f16581ac7af%3A1761427456%3AMTIwLjIyNi4yMzcuMTI1
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=286a53cafa03e8e16836d1679e2a0ad2f25a3217de4fad9c7c8d082175fefd08%3A1761470819%3AMTIwLjIyNi4yMzcuMTI1
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=2c89a148e5e184082d3468dd68851c33f1683b8c8f43925da3f9e7efb099a9ce%3A1762115644%3AMTIwLjIyNy4zMi4xODE%3D
-CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=4f67e94ab28b6d876333c383e93bf3013a1c03c719cb214f7dd12431395aec15%3A1761249868%3AMTIwLjIyNi4yMzcuMTI1
 CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/index.m3u8
 CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/main.m3u8
 CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
@@ -139,9 +139,9 @@ CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001002/000000010000000000500
 CCTV-13,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=2
 CCTV-13,https://live.catvod.com/live.php?id=cctv13&token=5de2c33d659a4d9d70ef7f556137f602b076cc274d52a8efddcc35ebe52b06cb%3A1762115644%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-13,https://live.catvod.com/live.php?id=cctv13&token=004a7734080044a9a7224e0ae3e936903d148a93bb08312c8552106bc767c931%3A1762158948%3AMTIwLjIyNy4zMi4xODE%3D
+CCTV-13,https://live.catvod.com/live.php?id=cctv13&token=f10daf3872292622a7af8500f176abed60c7199d093cba1d9da5e643c9080bbe%3A1762245544%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-13,https://live.catvod.com/live.php?id=cctv13&token=4754b30250cc35bcc62736d077f896de8328bff4cc6979b4af5d19decb190418%3A1761338835%3AMTIwLjIyNi4yMzcuMTI1
 CCTV-13,https://live.catvod.com/live.php?id=cctv13&token=09b32a087ee894b3dd05e3a1779cf996ab53b2cec12182cfead2719ffcddefa7%3A1761359343%3AMTIwLjIyNi4yMzcuMTI1
-CCTV-13,https://live.catvod.com/live.php?id=cctv13&token=d835403b15e35e8190038685f41fe9e2b0cafdcdd612e0ec567efa70144d12b3%3A1761295390%3AMTIwLjIyNi4yMzcuMTI1
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/index.m3u8
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/main.m3u8
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
@@ -180,8 +180,8 @@ CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001001/000000010000000000250
 CCTV-17,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
 CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=4bdec0a95648858ffbd909252304a313adad4f3b864f60508c1dd91a748c5af6%3A1761787829%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=a60f34f790841bdbff69387712be05a8a8cb9485d8ba5af03c950824a3865da4%3A1761818693%3AMTIwLjIyNy4zMi4xODE%3D
+CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=c931864c626d3082479f1769fc3c8e352f301032c13c9c72419844dc7ef63d3a%3A1762245544%3AMTIwLjIyNy4zMi4xODE%3D
 CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=9c848e25903688151c9a32565ea743dfe79482dfef5b82c3207cc18bb397d0fc%3A1761854602%3AMTIwLjIyNy4zMi4xODE%3D
-CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=866b8483d9bde46a72aba0851e47eae50ce757aa0df761832ed3a3f36c661d48%3A1761744517%3AMTIwLjIyNy4zMi4xODE%3D
 CETV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/1.m3u8
 CETV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/1.m3u8
 CETV-1,http://39.134.13.35:6610/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
@@ -692,7 +692,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=afa4cd8aa4c80535b888dd37dda05d3b12fa121983925ebe18a4f482a39e4a5d%3A1762029014%3AMTIwLjIyNy4zMi4xODE%3D
 深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=ab3eaf0b344373e807da66741f8ca2baae24f85eeaad31451a4aaeb32e8eb57a%3A1762115644%3AMTIwLjIyNy4zMi4xODE%3D
 深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=9985b5deb09b11cfd34a04a547cd93e37cb5e78eb5cf5b4b4a46bb620d4b55c1%3A1762158948%3AMTIwLjIyNy4zMi4xODE%3D
-深圳卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
+深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=26ad4435f0598ce2721789066a2fe1a9e29ea9afc993358b88f2a241c7487235%3A1762245544%3AMTIwLjIyNy4zMi4xODE%3D
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/index.m3u8
