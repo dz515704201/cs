@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-10 08:08:41,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-11-10 20:10:08,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -225,7 +225,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 湖南经视,http://111.23.232.117/180000001002/00000001000000000002000000113182/index.m3u8?
 湖南经视,http://111.23.232.117/180000001002/00000001000000000002000000113182/main.m3u8
 湖南经视,http://111.23.232.117:80/180000001001/00000001000000001002000000059679/main.m3u8
-湖南经视,http://36.158.166.3:8089/180000001002/00000001000000000002000000113182/main.m3u8
+湖南经视,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1lMjhmODQ4ZjdlNTgwYzE1NjhhYTE2ZGYzMjcyNmZlYiZ1aWQ9JnV1aWQ9NWE3MjgwYjExZDhkMzIyMjBjNGVkYzA0MmY4YTlmZTYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Mjc4MjkxOQ,,/HNJSMPP360.m3u8
 湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/index.m3u8
 湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
 湖南电视剧,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
@@ -490,11 +490,11 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/main.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 黑龙江卫视,http://39.134.13.35:6610/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
 黑龙江卫视,http://183.215.116.134:6610/180000001001/00000001000000000008000000047449/main.m3u8?IASHttpSessionId=OTT
 黑龙江卫视,http://183.215.116.134:6610/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
 黑龙江卫视,http://111.23.232.117/180000001002/00000001000000000008000000047449/index.m3u8
-黑龙江卫视,http://111.23.232.117/180000001002/00000001000000000008000000047449/main.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/index.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/index.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8
@@ -922,8 +922,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 金鹰卡通,http://36.158.166.3:8089/180000001002/00000001000000000007000000001247/main.m3u8
 金鹰卡通,http://111.23.232.117/180000001002/00000001000000000007000000001247/main.m3u8
 金鹰卡通,http://111.23.232.117/180000001002/00000001000000000007000000001247/index.m3u8
+金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1iNDk1YjI4NmJlMzgyYzY4NDE0YjMyZTc1MmQzOTc2NCZ1aWQ9JnV1aWQ9NWVhZDkwZmYzNmI0ZWM3NzI1MmFiY2JlZTg5MWQ5NzktNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Mjc5NDUzNQ,,/JYKTMPP360.m3u8
 金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0zMTBhODIxNDg2ZmY1ZGMyNGZiNWI3MzRmYTYwYzc4MiZ1aWQ9JnV1aWQ9ZGNkZWQ1YTVmZTU4ZDMwZmE5MGZkODEwMzUzZTQ4ZTAtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MjczNjY4Nw,,/JYKTMPP360.m3u8
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1jMDJiZTViOTY1NGIxMmVjNTIzZGQ0YWIyZTQ0NzMwZiZ1aWQ9JnV1aWQ9NzYzMDg0OWFlZWQwYjBhNGNkODk4ODA5OTJiN2EzMjMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MjY1MDA4Mg,,/JYKTMPP360.m3u8
 NewTV黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
