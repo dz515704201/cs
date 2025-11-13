@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-13 04:43:06,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-11-13 16:45:05,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -434,6 +434,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 金色学堂,http://111.23.232.117/180000001002/32024042211003612942969703619522/index.m3u8
 金色学堂,http://111.23.232.117/180000001002/32024042211003612942969703619522/index.m3u8?
 老故事,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+老故事,https://live.catvod.com/iptv.php?id=cwjd
 老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=phyuad
 老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=lbz58k
 老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qns9l1
@@ -442,7 +443,6 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=i1kqcf
 老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=737i2j
 老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4hr0ls
-老故事,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qmpzel
 
 📡卫视频道,#genre#
 广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8
@@ -742,6 +742,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+翡翠台,https://live.catvod.com/iptv.php?id=feicui
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=95fkkw
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=q5xrmx
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=0hd5uk
@@ -750,7 +751,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=fvavqc
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=weh495
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1moy1w
-翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ctvmbv
+明珠台,https://live.catvod.com/iptv.php?id=mingzhu
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ryefr
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=hiibfu
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=c00ryg
@@ -760,9 +761,9 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=dhp9zm
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=msyd98
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kyqbvp
-明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zwqw1q
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://live.catvod.com/iptv.php?id=fhzw
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=hnuazu
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=rub4zi
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=jd4pyn
@@ -770,8 +771,8 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vvrbue
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=wvee58
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=08c3zb
-凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=8fz5q9
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://live.catvod.com/iptv.php?id=fhzx
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ctmkuo
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=9pdyjf
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=iqji0d
@@ -780,7 +781,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=bb2sew
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=837113
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=33kk7u
-凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yz59h8
+凤凰香港,https://live.catvod.com/iptv.php?id=fhhk
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=h2xp7i
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=mwhucv
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=701ccg
@@ -790,7 +791,6 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=6us66a
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ar6qe5
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qhj8gd
-凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=6m09sp
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=8c0521233ee3793e7a9f6d670c409290023c15917bcdff8583d887aabbc920c4%3A1762733140%3AMTIwLjIyNi4yMzcuMjI2
 纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=1b816e71885e3916c5cf94cbe8ff34f0ea1c9dbb8d48b8b388257952bb3db6b5%3A1762776483%3AMTIwLjIyNi4yMzcuMjI2
@@ -800,6 +800,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=332e5618e9818f42d96b7b09dd028517314560f90ac5418a21292f05c1f1eae5%3A1762936743%3AMTIwLjIyNi4yMzcuMjI2
 纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=bf00d5957b4b24298dbbc8fa8e37ca37988d5fee07a76185b6050b7c5d1ce603%3A1762980033%3AMTIwLjIyNi4yMzcuMjI2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,https://live.catvod.com/iptv.php?id=wuxianxinwen
 
 🎬电影频道,#genre#
 CHC家庭影院,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/index.m3u8?
