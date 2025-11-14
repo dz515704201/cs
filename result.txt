@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-14 01:58:55,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-11-14 14:00:25,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -30,8 +30,8 @@ CCTV-3,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=
 CCTV-3,https://live.catvod.com/live.php?id=cctv3&token=86d5dedf8749441b5ab1a2ae1c5f9719cbe50dbe7b3c9485758cd73aced8bfb4%3A1763054953%3AMTIwLjIyNi4yMzcuMjI2
 CCTV-3,https://live.catvod.com/live.php?id=cctv3&token=375dcf7724226ab7e4d5fd2b2ea939b239638c62fe2765f2e96f6c37540d3c4e%3A1762936743%3AMTIwLjIyNi4yMzcuMjI2
 CCTV-3,https://live.catvod.com/live.php?id=cctv3&token=ff0e19b8b7289fc1404619ac4e77d5cb5f6fa76a7d55df58e851475c308d4003%3A1762893463%3AMTIwLjIyNi4yMzcuMjI2
+CCTV-3,https://live.catvod.com/live.php?id=cctv3&token=281046afad8358c62e11c50e26a4dd18274abf5252c450aef1daf61f0b683483%3A1763099895%3AMTIwLjIyNi4yMzcuMjI2
 CCTV-3,https://live.catvod.com/live.php?id=cctv3&token=5eeb2982786d7444d77bf46124c4f1c4c05c7f90bb64db251119e87b56c798cd%3A1763023345%3AMTIwLjIyNi4yMzcuMjI2
-CCTV-3,https://live.catvod.com/live.php?id=cctv3&token=3bba148ad4fdee05e06d9c3011f7658756ee0c4dc5d9c765446f461627891008%3A1762850004%3AMTIwLjIyNi4yMzcuMjI2
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/main.m3u8
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/main.m3u8
@@ -835,6 +835,7 @@ NewTV黑莓电影,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=6594312bb77a1181afc95ad96b39f2df96adb33c5551943e444d029a9e7b9d7d%3A1762805041%3AMTIwLjIyNi4yMzcuMjI2
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=6a9849b2a2d7a5ab3bdbef22cbc95fb84f0725ae613866654709308aae3ecb91%3A1763054953%3AMTIwLjIyNi4yMzcuMjI2
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=dca8dd990f8036944511d44d1b54354f2661516d2c26c42ba2560d4379427b39%3A1762776483%3AMTIwLjIyNi4yMzcuMjI2
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=88c38d9347fe639636e0fdcd9ad001d9b6fd545a7ed4acbcb1547864661f5c25%3A1763099895%3AMTIwLjIyNi4yMzcuMjI2
 IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
