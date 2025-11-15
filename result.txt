@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 16:36:50,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+2025-11-16 04:38:10,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -688,10 +688,10 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 深圳卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/main.m3u8
 深圳卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/index.m3u8?
 深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=a66f421366c1938416fcf586fa735dfc8838153cc1e68bae9b7b8c43e2ef7fba%3A1763099895%3AMTIwLjIyNi4yMzcuMjI2
+深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=f1faaecb850f7469ce4129b00939786abc31c5f560870637d6e24089ac2fedbf%3A1763238969%3AMTIwLjIyNi4yMzcuMjI2
 深圳卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
 深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=9496b0a123743997d8376b6583a389d35de477b5f4751ddad69cf528b8a285d7%3A1763150632%3AMTIwLjIyNi4yMzcuMjI2
 深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=fba1a9a8eab33c8f64d6019d820ad41070e63a4abe752fbf317a77922659780b%3A1763118544%3AMTIwLjIyNi4yMzcuMjI2
-深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=5f7465854befbc17fd7a9792d32ca632aa19404cc693e7cbb8a6ab8004d970af%3A1762545850%3AMTIwLjIyNi4yMzcuMjI2
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/index.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
