@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-16 04:38:10,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+2025-11-16 16:39:52,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -488,12 +488,12 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/index.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/main.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/index.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
 黑龙江卫视,http://39.134.13.35:6610/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
 黑龙江卫视,http://183.215.116.134:6610/180000001001/00000001000000000008000000047449/main.m3u8?IASHttpSessionId=OTT
 黑龙江卫视,http://111.23.232.117/180000001002/00000001000000000008000000047449/index.m3u8
 黑龙江卫视,http://183.215.116.134:6610/180000001001/00000001000000001001000000000068/main.m3u8?IASHttpSessionId=OTT
-黑龙江卫视,http://111.23.232.117/180000001002/00000001000000000008000000047449/main.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/index.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/index.m3u8
@@ -741,6 +741,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 
 🌊港·澳·台,#genre#
 翡翠台,https://live.catvod.com/iptv.php?id=feicui
+翡翠台,https://live.catvod.com/iptv.php?id=owedlyam
 翡翠台,https://live.catvod.com/iptv.php?id=g09q75jk
 翡翠台,https://live.catvod.com/live.php?id=Jade_xue&token=9de946e0f6fa8a3dbbfa7e80d8c19aa9527c57912e9906f8fa8f89414620b815%3A1762936743%3AMTIwLjIyNi4yMzcuMjI2
 翡翠台,https://live.catvod.com/live.php?id=Jade_xue&token=3be5a75abac2e94e945252acb2a28a15f9e78cc7bc1ab3d01325538fcf53f1ac%3A1763023345%3AMTIwLjIyNi4yMzcuMjI2
@@ -749,8 +750,8 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 翡翠台,https://live.catvod.com/live.php?id=Jade_xue&token=e889639a67dd9c1ac6f2a7b0aab3a5d952dfb84226c84ca03da1de118567264c%3A1762776483%3AMTIwLjIyNi4yMzcuMjI2
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ctvmbv
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1moy1w
-翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=0hd5uk
 明珠台,https://live.catvod.com/iptv.php?id=yc92zntq
+明珠台,https://live.catvod.com/iptv.php?id=avt0u2vx
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=aafdb0
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=c00ryg
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=hiibfu
@@ -759,9 +760,9 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=dhp9zm
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ftq4tl
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=13ofci
-明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=tmg2x7
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://live.catvod.com/iptv.php?id=zql23fgm
 凤凰中文,https://live.catvod.com/iptv.php?id=fhzw
 凤凰中文,https://live.catvod.com/iptv.php?id=5phoeh74
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=8fz5q9
@@ -769,8 +770,8 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z2p14
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vvrbue
 凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=08c3zb
-凤凰中文,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7a9imy
 凤凰资讯,https://live.catvod.com/iptv.php?id=fhzx
+凤凰资讯,https://live.catvod.com/iptv.php?id=k0zuckvv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://live.catvod.com/iptv.php?id=4grcspza
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ctmkuo
@@ -779,7 +780,6 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vj9p29
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=837113
 凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=f14h3k
-凤凰资讯,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yz59h8
 凤凰香港,https://live.catvod.com/iptv.php?id=edrz4xpu
 凤凰香港,https://live.catvod.com/iptv.php?id=fhhk
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=701ccg
@@ -803,6 +803,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=b297c78ad21dd810fd83ab0503a18219a4dcb09adaec8a03773acc64789f0d97%3A1763118544%3AMTIwLjIyNi4yMzcuMjI2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://live.catvod.com/iptv.php?id=wuxianxinwen
+无线新闻,https://live.catvod.com/iptv.php?id=kbu4gvgl
 无线新闻,https://live.catvod.com/iptv.php?id=u0xmc3wc
 
 🎬电影频道,#genre#
