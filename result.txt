@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 11:19:16,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+2025-11-17 23:22:38,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -190,6 +190,7 @@ CETV-1,http://39.134.249.219/wh7f454c46tw2130381965_-824498663/180000001002/0000
 CETV-1,http://113.240.117.58:2380/js-live-screenshot.gitv.tv/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV&area=JS_CMCC_CP
 CETV-1,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
 CETV-1,http://111.23.232.117:80/180000001001/00000001000000001007000000063289/main.m3u8
+CETV-1,http://106.8.246.142:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-1H264_4000.m3u8
 CETV-2,https://iptv.catvod.com/live.php?id=CETV-2
 CETV-2,http://ygbh.site/php/bfgd.php?id=492
 CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8
@@ -699,10 +700,10 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 深圳卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/index.m3u8?
 深圳卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/index.m3u8?
 深圳卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
-深圳卫视,https://live.catvod.com/live.php?id=shenzhen&token=4efbaa200549f86d9b61bc557396bd2875a80122c06d284fe8178fdb5a2a6788%3A1763347704%3AMTIwLjIyNy4zMi42OQ%3D%3D
 深圳卫视,http://39.134.13.35:6610/180000001001/00000001000000001001000000000065/main.m3u8?IASHttpSessionId=OTT
 深圳卫视,http://183.215.116.134:6610/180000001001/00000001000000001001000000000065/main.m3u8?IASHttpSessionId=OTT
 深圳卫视,http://183.215.116.134:6610/180000001001/00000001000000000008000000047446/main.m3u8?IASHttpSessionId=OTT
+深圳卫视,http://39.134.249.217/wh7f454c46tw1202926479_216304667/180000001002/00000001000000000008000000047446/main.m3u8?IASHttpSessionId=RR989120241026111149876773&icpid=2&RTS=1729941015&from=9&hms_devid=24594&online=1729941015&vqe=3
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/index.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/index.m3u8
