@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-19 23:33:27,https://iptv.catvod.com/live.php?id=cctv1
+2025-11-20 11:35:56,https://iptv.catvod.com/live.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=cctv1
@@ -80,8 +80,8 @@ CCTV-7,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000000800
 CCTV-7,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047436/1.m3u8
 CCTV-7,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047436/index.m3u8
 CCTV-7,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=2
+CCTV-7,https://live.catvod.com/live.php?id=cctv7&token=c7ca63dec09b446f20bd93c1a9b58839e14ae83cce47bbda38f15db9856248c0%3A1763609602%3AMTIwLjIyNy4zMi42OQ%3D%3D
 CCTV-7,http://39.134.13.35:6610/180000001001/00000001000000001001000000000055/main.m3u8?IASHttpSessionId=OTT
-CCTV-7,http://183.215.116.134:6610/180000001001/00000001000000000008000000047436/main.m3u8?IASHttpSessionId=OTT
 CCTV-8,https://iptv.catvod.com/live.php?id=cctv8
 CCTV-8,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/1.m3u8
 CCTV-8,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047437/1.m3u8
@@ -101,7 +101,7 @@ CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000000000800
 CCTV-9,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/index.m3u8
 CCTV-9,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=2
 CCTV-9,https://live.catvod.com/live.php?id=cctv9hd&token=1ff0defd4e4788003ce63d552acec98ce39733d92829c52a2378a14fa2677ce3%3A1763522921%3AMTIwLjIyNy4zMi42OQ%3D%3D
-CCTV-9,http://183.215.116.134:6610/180000001001/00000001000000000008000000047438/main.m3u8?IASHttpSessionId=OTT
+CCTV-9,https://live.catvod.com/live.php?id=cctv9hd&token=22bbc1a0cb1cd9cc849c1c730d1059cabcd753f363a588ac147dbaa737a8e13c%3A1763609602%3AMTIwLjIyNy4zMi42OQ%3D%3D
 CCTV-10,https://iptv.catvod.com/live.php?id=cctv10
 CCTV-10,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/main.m3u8
 CCTV-10,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
@@ -178,10 +178,10 @@ CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001001/000000010000000000250
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/index.m3u8
 CCTV-17,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8
 CCTV-17,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
+CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=35e3ae6fba39b3afe94f56826250107c1dc408d1702f48d535d0c872f8e6208e%3A1763609602%3AMTIwLjIyNy4zMi42OQ%3D%3D
 CCTV-17,http://183.215.116.134:6610/180000001001/00000001000000000025000000024152/main.m3u8?IASHttpSessionId=OTT
 CCTV-17,http://183.215.116.134:6610/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
 CCTV-17,http://39.134.13.35:6610/180000001001/00000001000000001018000000188913/main.m3u8?IASHttpSessionId=OTT
-CCTV-17,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
 CETV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/1.m3u8
 CETV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/1.m3u8
 CETV-1,http://39.134.13.35:6610/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
@@ -807,6 +807,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=6m09sp
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=fa09370688aed8a734c0362708f2113185a5d5a6689348cd0d834daaf3dc7a11%3A1763522921%3AMTIwLjIyNy4zMi42OQ%3D%3D
+纬来体育,https://live.catvod.com/live.php?id=videolandsport&token=1fbf88aa507c49335e683f96f998e2ff6a31225b51d2aad8c2c80d5f3f70736b%3A1763609602%3AMTIwLjIyNy4zMi42OQ%3D%3D
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://live.catvod.com/iptv.php?id=kbu4gvgl
 
