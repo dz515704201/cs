@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-03 04:54:16,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-12-03 16:57:02,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -751,6 +751,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=0hd5uk
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=fvavqc
 翡翠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=rafibg
+明珠台,https://live.catvod.com/iptv.php?id=gfnvny0b&token=85e72169fbdb66978e0ef92a3c511f0a5bcae1454027f2e4476706da2e7a8928%3A1764752046%3AMTIwLjIyNy4zMi44Mw%3D%3D
 明珠台,https://live.catvod.com/iptv.php?id=gfnvny0b&token=b4d4ec03999b3988bddd0f9b73892a41e8be893113912e916c0ee6cc875bd01c%3A1764708687%3AMTIwLjIyNy4zMi44Mw%3D%3D
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=sk05cl
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=v2knid
@@ -760,7 +761,7 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=uzxtcd
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ikp6po
 明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kyqbvp
-明珠台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4osdow
+凤凰中文,https://live.catvod.com/iptv.php?id=ly4kzfbq&token=d71182ce09de9920606a96a21bf7ea815481925382af63df6ed43ed197401580%3A1764752046%3AMTIwLjIyNy4zMi44Mw%3D%3D
 凤凰中文,https://live.catvod.com/iptv.php?id=ly4kzfbq&token=36bfe053984cfb54e4067c884d465443db367316529817f340c4f2a201dd3946%3A1764708687%3AMTIwLjIyNy4zMi44Mw%3D%3D
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=c6p934
 凤凰香港,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=6us66a
