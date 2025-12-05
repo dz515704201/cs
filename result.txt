@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-05 06:38:51,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-12-05 18:41:37,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -117,11 +117,11 @@ CCTV-11,http://tvgslb.hn.chinamobile.com:8089/180000001001/000000010000000000260
 CCTV-11,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/index.m3u8
 CCTV-11,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/main.m3u8
 CCTV-11,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=2
+CCTV-11,https://live.catvod.com/live.php?id=cctv11&token=5064af573f16df3fbdc41fab42556e59e40da77ae5e7bc949f662e53f189a73d%3A1764931119%3AMTIwLjIyNy4zMi44Mw%3D%3D
 CCTV-11,http://www.liuliuball.cn:8888/udp/239.69.1.154:10560
 CCTV-11,http://39.134.13.35:6610/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
 CCTV-11,http://183.215.116.134:6610/180000001001/00000001000000000026000000446966/main.m3u8?IASHttpSessionId=OTT
 CCTV-11,http://183.215.116.134:6610/180000001001/00000001000000001019000000352943/main.m3u8?IASHttpSessionId=OTT
-CCTV-11,http://111.23.232.117/180000001002/00000001000000000026000000446966/index.m3u8
 CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/index.m3u8
 CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/index.m3u8
 CCTV-12,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
@@ -132,6 +132,7 @@ CCTV-12,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=b836d5950bc06ed5939833ef9ffb46aabecec019e8c47748363739f436b73cd8%3A1764622059%3AMTIwLjIyNy4zMi44Mw%3D%3D
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=47dee0264d8ae3e4bddc3cef45d9f5ad975cb64d426c7047773b35e93bfe5a3b%3A1764535366%3AMTIwLjIyNy4zMi44Mw%3D%3D
 CCTV-12,https://live.catvod.com/live.php?id=cctv12&token=f4e0f201e8e1852479f716685f7c4744dc2822b3a68c924783585ddd9db769bc%3A1764448638%3AMTIwLjIyNy4zMi44Mw%3D%3D
+CCTV-13,https://live.catvod.com/iptv.php?id=cctv13&token=796ab00e915c9edd6b6bd13d52f1b67454078692366d3f2ea579df17afe3baa2%3A1764931119%3AMTIwLjIyNy4zMi44Mw%3D%3D
 CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/main.m3u8
 CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
 CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/index.m3u8
@@ -141,7 +142,6 @@ CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=js1lfy
 CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ysu5j
 CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=f63af8
 CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=9qkbek
-CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ewhyys
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/main.m3u8
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/index.m3u8
@@ -157,11 +157,11 @@ CCTV-15,http://tvgslb.hn.chinamobile.com:8089/180000001002/000000010000000000260
 CCTV-15,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/index.m3u8
 CCTV-15,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/main.m3u8
 CCTV-15,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
+CCTV-15,https://live.catvod.com/live.php?id=cctv15&token=4ebd1a953a246064117bb31e2b98f5a0279c380f0e1bee89ca93980b095bc6e9%3A1764931119%3AMTIwLjIyNy4zMi44Mw%3D%3D
 CCTV-15,http://183.215.116.134:6610/180000001001/00000001000000000026000000446967/main.m3u8?IASHttpSessionId=OTT
 CCTV-15,http://39.134.13.35:6610/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
 CCTV-15,http://183.215.116.134:6610/180000001001/00000001000000001019000000352948/main.m3u8?IASHttpSessionId=OTT
 CCTV-15,http://36.158.166.3:8089/180000001002/00000001000000000026000000446967/main.m3u8
-CCTV-15,http://111.23.232.117/180000001002/00000001000000000026000000446967/index.m3u8
 CCTV-16,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8
 CCTV-16,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/main.m3u8
 CCTV-16,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/index.m3u8
