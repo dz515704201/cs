@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 06:47:08,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+2025-12-07 18:49:56,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
@@ -139,9 +139,9 @@ CCTV-13,http://tvgslb.hn.chinamobile.com:8089/180000001001/000000010000000000500
 CCTV-13,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=2
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13
 CCTV-13,https://live.catvod.com/iptv.php?id=cctv13&token=70b26e95515ba29008ef7d4b6d9272f9efb77bde8c9101449719c1086655dcd0%3A1765060974%3AMTIwLjIyNi4yMzcuMjM0
+CCTV-13,https://live.catvod.com/iptv.php?id=cctv13&token=884584e0e514d82c87b41dfd10839c44caa18c4736900b9eee84f359fed0d8f4%3A1765104313%3AMTIwLjIyNi4yMzcuMjM0
 CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=bvfjvp
 CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=js1lfy
-CCTV-13,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ysu5j
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/main.m3u8
 CCTV-14,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/index.m3u8
