@@ -1,36 +1,4 @@
-🕘️更新时间,#genre#
- cs 2025-12-08 06:51:55,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 
-📺央视频道,#genre#
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
-CCTV-1,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000021973/1.m3u8
-CCTV-1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=4
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1
-CCTV-1,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=poqoy1
-CCTV-1,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=b5lgkf
-CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8
-CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/index.m3u8
-CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/main.m3u8
-CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/index.m3u8
-CCTV-2,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2
-CCTV-2,https://live.catvod.com/live.php?id=cctv2&token=f68c7fd778a4908219e4a8a9f3fe7bd67766cdc5fdf4c87d5aab5e23727b423e%3A1764360241%3AMTIwLjIyNy4zMi44Mw%3D%3D
-CCTV-2,http://39.134.13.35:6610/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
-CCTV-2,http://183.215.116.134:6610/180000001001/00000001000000000008000000047431/main.m3u8?IASHttpSessionId=OTT
-CCTV-2,http://183.215.116.134:6610/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
-CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/index.m3u8
-CCTV-3,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=2
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3
-CCTV-3,http://39.134.13.35:6610/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
-CCTV-3,http://183.215.116.134:6610/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
-CCTV-3,http://39.134.249.212/wh7f454c46tw72256347_-1501665499/180000001002/00000001000000000008000000047432/main.m3u8?IASHttpSessionId=RR981820241026094124417460&icpid=2&RTS=1729935589&from=9&hms_devid=24592&online=1729935589&vqe=3
-CCTV-3,http://36.158.166.3:8089/180000001002/00000001000000000008000000047432/main.m3u8
-CCTV-3,http://111.23.232.117/180000001002/00000001000000000008000000047432/main.m3u8
-CCTV-3,http://111.23.232.117/180000001002/00000001000000000008000000047432/index.m3u8
 CCTV-3,http://39.134.240.3/PLTV/2/224/3221226190/index.m3u8
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/index.m3u8
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/main.m3u8
