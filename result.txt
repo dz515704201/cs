@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-21 01:06:57,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+2025-12-21 13:07:13,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -458,10 +458,10 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/main.m3u8
 广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=2025122008020777dd95f699e1407fa0ca8ad4b2cb30b4&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251220080207&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20251220080207&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b190578f8268564305c668592cb08b81&sv=10004&ct=android
 广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20251219060235138b23d3cd874abba6a583ee8916a44b&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251219060235&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20251219060235&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e4fa526b1a6c3219afd252ec2d0aef77&sv=10004&ct=android
+广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=202512210802440bf87bdfebe64d0f964ab44d909cf64e&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251221080244&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20251221080244&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be053bf3431da2d9bd212f5b933e641d&sv=10004&ct=android
 广东卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=2
 广东卫视,http://183.215.116.134:6610/180000001001/00000001000000000010000000040391/main.m3u8?IASHttpSessionId=OTT
 广东卫视,http://111.23.232.117/180000001002/00000001000000000010000000040391/index.m3u8
-广东卫视,http://36.158.166.3:8089/180000001002/00000001000000000010000000040391/main.m3u8
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 浙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/index.m3u8
 浙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/index.m3u8?
