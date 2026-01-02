@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.23.0.2/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-02 01:10:46
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-02 13:08:26
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
@@ -894,6 +894,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260102060234dc5ceed91902449f91bb053966d59334&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260102060234&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260102060234&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=af317a029fc3c187be91f5738a730c70&sv=10004&ct=android
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://183.215.116.134:6610/180000001001/00000001000000000010000000040391/main.m3u8?IASHttpSessionId=OTT
@@ -903,8 +905,6 @@ http://111.23.232.117/180000001002/00000001000000000010000000040391/main.m3u8
 http://39.134.242.92:80/180000001002/00000001000000000010000000040391/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://111.23.232.117/180000001002/00000001000000000010000000040391/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://36.158.166.3:8089/180000001002/00000001000000000010000000040391/main.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/main.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
