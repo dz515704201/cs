@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.23.0.2/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-01-07 03:20:17
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-07 03:25:11
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
@@ -83,3 +83,21 @@ https://cdn6.101.qzz.io/163189/fhzw
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
+https://live.iill.top/douyin/685317364746
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛综合频道",笑傲江湖
+https://live.iill.top/huya/23865142
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/仙剑奇侠传.png" group-title="🏛综合频道",仙剑奇侠传
+http://www.douzhicloud.site:35455/yy/1382749903
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
