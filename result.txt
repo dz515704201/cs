@@ -1,5 +1,5 @@
 🕘️正在更新中，刷新获取最新结果,#genre#
-2026-01-07 03:09:57,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+2026-01-07 03:19:59,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
@@ -40,14 +40,23 @@ CCTV-16,http://112.19.88.97:8899/rtp/239.11.0.67:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+四川卫视,http://112.19.88.97:8899/rtp/239.11.0.43:5140
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8?
+深圳卫视,http://112.19.88.97:8899/rtp/239.10.0.93:5140
 
 🌊港·澳·台,#genre#
+翡翠台,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
+翡翠台,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 
 🎬电影频道,#genre#
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+广东体育,http://r.jdshipin.com/LiYdg
 
 🪁动画频道,#genre#
 
