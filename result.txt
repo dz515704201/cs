@@ -1,5 +1,5 @@
-🕘️正在更新中，刷新获取最新结果,#genre#
-2026-01-07 03:19:59,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+🕘️更新时间,#genre#
+2026-01-07 03:25:11,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
@@ -57,11 +57,20 @@ CCTV-16,http://112.19.88.97:8899/rtp/239.11.0.67:5140
 
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
+JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛综合频道,#genre#
+笑傲江湖,https://live.iill.top/huya/23865142
+仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
+NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
