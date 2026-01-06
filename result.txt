@@ -1,5 +1,5 @@
-🕘️正在更新中，刷新获取最新结果,#genre#
-2026-01-07 03:49:56,https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
+🕘️更新时间,#genre#
+2026-01-07 03:54:55,https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
@@ -164,11 +164,25 @@ CHC动作电影,http://112.19.88.97:8899/rtp/239.10.0.87:5140
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+睛彩篮球,http://112.19.88.97:8899/rtp/239.11.0.122:5140
+睛彩广场舞,http://112.19.88.97:8899/rtp/239.10.0.131:5140
+JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
+金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8?
+金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛综合频道,#genre#
+笑傲江湖,https://live.iill.top/huya/23865142
+仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
+NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
