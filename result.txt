@@ -1,76 +1,174 @@
-🕘️更新时间,#genre#
-2026-01-07 03:25:11,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+🕘️正在更新中，刷新获取最新结果,#genre#
+2026-01-07 03:49:56,https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-1,https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
 CCTV-1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://z.d4p.cn:8000/rtp/239.49.8.19:9614
+CCTV-1,http://112.19.88.97:8899/rtp/239.10.0.151:5140
+CCTV-1,http://otangtang.com:38848/rtp/239.3.1.129:8008
+CCTV-1,http://112.19.88.97:8899/rtp/239.11.0.65:5140
+CCTV-1,http://chutouge.top:34022/rtp/239.3.1.129:8008
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://112.19.88.97:8899/rtp/239.11.0.108:5140
+CCTV-2,http://otangtang.com:38848/rtp/239.3.1.60:8084
+CCTV-2,http://chutouge.top:34022/rtp/239.3.1.60:8084
+CCTV-3,http://112.19.88.97:8899/rtp/239.11.0.101:5140
+CCTV-3,http://z.d4p.cn:8000/rtp/239.49.8.74:8000
+CCTV-4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://otangtang.com:38848/rtp/239.3.1.214:4220
+CCTV-4,http://otangtang.com:38848/rtp/239.3.1.105:8092
+CCTV-4,http://112.19.88.97:8899/rtp/239.11.0.109:5140
+CCTV-4,http://chutouge.top:34022/rtp/239.3.1.105:8092
+CCTV-4,http://otangtang.com:38848/rtp/239.3.1.213:4220
+CCTV-5,http://112.19.88.97:8899/rtp/239.11.0.100:5140
+CCTV-5,http://otangtang.com:38848/rtp/239.3.1.130:8004
+CCTV-5,http://chutouge.top:34022/rtp/239.3.1.130:8004
 CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
+CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+CCTV-5+,http://112.19.88.97:8899/rtp/239.11.0.241:5140
+CCTV-6,http://112.19.88.97:8899/rtp/239.11.0.102:5140
+CCTV-7,http://otangtang.com:38848/rtp/239.3.1.61:8104
+CCTV-7,http://112.19.88.97:8899/rtp/239.11.0.110:5140
+CCTV-7,http://chutouge.top:34022/rtp/239.3.1.61:8104
+CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
+CCTV-8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://112.19.88.97:8899/rtp/239.11.0.103:5140
+CCTV-9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://otangtang.com:38848/rtp/239.3.1.62:8112
+CCTV-9,http://112.19.88.97:8899/rtp/239.11.0.111:5140
+CCTV-9,http://chutouge.top:34022/rtp/239.3.1.62:8112
+CCTV-10,http://112.19.88.97:8899/rtp/239.11.0.112:5140
+CCTV-10,http://otangtang.com:38848/rtp/239.3.1.63:8116
+CCTV-10,http://chutouge.top:34022/rtp/239.3.1.63:8116
+CCTV-11,http://112.19.88.97:8899/rtp/239.11.0.22:5140
+CCTV-11,http://chutouge.top:34022/rtp/239.3.1.152:8120
+CCTV-11,http://otangtang.com:38848/rtp/239.3.1.152:8120
+CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://otangtang.com:38848/rtp/239.3.1.64:8124
+CCTV-12,http://112.19.88.97:8899/rtp/239.11.0.113:5140
+CCTV-12,http://chutouge.top:34022/rtp/239.3.1.64:8124
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8?
+CCTV-13,http://otangtang.com:38848/rtp/239.3.1.124:8128
+CCTV-13,http://chutouge.top:34022/rtp/239.3.1.124:8128
+CCTV-13,http://112.19.88.97:8899/rtp/239.11.0.24:5140
+CCTV-14,http://112.19.88.97:8899/rtp/239.11.0.114:5140
+CCTV-14,http://otangtang.com:38848/rtp/239.3.1.65:8132
+CCTV-14,http://chutouge.top:34022/rtp/239.3.1.65:8132
+CCTV-15,http://otangtang.com:38848/rtp/239.3.1.153:8136
+CCTV-15,http://chutouge.top:34022/rtp/239.3.1.153:8136
+CCTV-15,http://112.19.88.97:8899/rtp/239.11.0.26:5140
 CCTV-16,http://112.19.88.97:8899/rtp/239.10.0.187:5140
 CCTV-16,http://z.d4p.cn:8000/rtp/239.49.0.109:8000
 CCTV-16,http://112.19.88.97:8899/rtp/239.11.0.67:5140
+CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
+CCTV-17,http://112.19.88.97:8899/rtp/239.11.0.107:5140
+CCTV-17,http://otangtang.com:38848/rtp/239.3.1.151:8144
+CCTV-17,http://chutouge.top:34022/rtp/239.3.1.151:8144
+CETV-1,http://112.19.88.97:8899/rtp/239.11.0.139:5140
+CETV-1,http://otangtang.com:38848/rtp/239.3.1.57:8152
+CETV-1,http://chutouge.top:34022/rtp/239.3.1.57:8152
+CETV-4,http://112.19.88.97:8899/rtp/239.11.0.248:5140
 
 ☘️湖南频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/31/index.m3u8
+湖南卫视,http://112.19.88.97:8899/rtp/239.11.0.119:5140
+金鹰纪实,http://112.19.88.97:8899/rtp/239.10.0.193:5140
 
 💰央视付费频道,#genre#
 风云足球,http://27.41.245.32:801/hls/906/index.m3u8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+老故事,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 老故事,http://xxwx.yoesun.com/xxw/cwjd.php
 老故事,http://8.138.7.223/tv/cwjd.php
 
 📡卫视频道,#genre#
-广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,http://112.19.88.97:8899/rtp/239.10.0.94:5140
-浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+广东卫视,http://112.19.88.97:8899/rtp/239.11.0.115:5140
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://112.19.88.97:8899/rtp/239.11.0.70:5140
 北京卫视,http://139.ye23.vip/dl/btv2502.php?id=bjws4
 北京卫视,http://112.19.88.97:8899/rtp/239.10.0.92:5140
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://112.19.88.97:8899/rtp/239.10.0.91:5140
+北京卫视,http://112.19.88.97:8899/rtp/239.11.0.121:5140
+湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8
+湖北卫视,http://112.19.88.97:8899/rtp/239.11.0.74:5140
+黑龙江卫视,http://112.19.88.97:8899/rtp/239.11.0.36:5140
+安徽卫视,http://112.19.88.97:8899/rtp/239.11.0.117:5140
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://112.19.88.97:8899/rtp/239.11.0.116:5140
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+东方卫视,http://112.19.88.97:8899/rtp/239.11.0.68:5140
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://112.19.88.97:8899/rtp/239.11.0.41:5140
+甘肃卫视,http://112.19.88.97:8899/rtp/239.11.0.55:5140
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://112.19.88.97:8899/rtp/239.11.0.48:5140
+贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8
+贵州卫视,http://112.19.88.97:8899/rtp/239.11.0.51:5140
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+河北卫视,http://112.19.88.97:8899/rtp/239.11.0.31:5140
 河南卫视,https://migu.188766.xyz/?migutoken=c7e3be5370a5f2201040051ba1e0d230&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://112.19.88.97:8899/rtp/239.11.0.44:5140
+吉林卫视,http://112.19.88.97:8899/rtp/239.11.0.35:5140
+江苏卫视,http://112.19.88.97:8899/rtp/239.11.0.76:5140
+江西卫视,http://112.19.88.97:8899/rtp/239.11.0.42:5140
+辽宁卫视,http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv
+辽宁卫视,http://112.19.88.97:8899/rtp/239.11.0.118:5140
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
+宁夏卫视,http://112.19.88.97:8899/rtp/239.11.0.57:5140
+山东卫视,http://112.19.88.97:8899/rtp/239.11.0.73:5140
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+陕西卫视,http://112.19.88.97:8899/rtp/239.11.0.54:5140
 四川卫视,http://112.19.88.97:8899/rtp/239.11.0.43:5140
-深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8?
+四川卫视,http://112.19.88.97:8899/rtp/239.11.0.78:5140
 深圳卫视,http://112.19.88.97:8899/rtp/239.10.0.93:5140
+深圳卫视,http://112.19.88.97:8899/rtp/239.11.0.71:5140
+天津卫视,http://112.19.88.97:8899/rtp/239.11.0.123:5140
+西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+西藏卫视,http://112.19.88.97:8899/rtp/239.11.0.53:5140
+新疆卫视,http://112.19.88.97:8899/rtp/239.11.0.58:5140
+云南卫视,http://112.19.88.97:8899/rtp/239.11.0.52:5140
 
 🌊港·澳·台,#genre#
 翡翠台,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
 翡翠台,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
+明珠台,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
+明珠台,https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,http://112.19.88.97:8899/rtp/239.11.0.153:5140
+凤凰资讯,http://112.19.88.97:8899/rtp/239.11.0.154:5140
 
 🎬电影频道,#genre#
+CHC家庭影院,http://112.19.88.97:8899/rtp/239.10.0.86:5140
+CHC动作电影,http://112.19.88.97:8899/rtp/239.10.0.87:5140
+靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
-JJ斗地主,https://live.iill.top/douyin/685317364746
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 
 🪁动画频道,#genre#
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛综合频道,#genre#
-笑傲江湖,https://live.iill.top/huya/23865142
-仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
-NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
