@@ -1,5 +1,5 @@
-🕘️正在更新中，刷新获取最新结果,#genre#
-2026-01-21 10:19:59,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=4
+🕘️更新时间,#genre#
+2026-01-21 10:20:33,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=4
 
 📺央视频道,#genre#
 CCTV-1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=4
@@ -767,3 +767,31 @@ NewTV古装剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 NewTV古装剧场,http://39.134.240.3/PLTV/1/224/3221225636/index.m3u8
 NewTV古装剧场,http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
 NewTV古装剧场,http://112.19.88.97:8899/rtp/239.11.0.141:5140
+NewTV家庭剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
+NewTV家庭剧场,http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
+NewTV家庭剧场,http://39.134.240.2/PLTV/1/224/3221225644/index.m3u8
+NewTV中国功夫,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
+NewTV中国功夫,http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
+NewTV中国功夫,http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
+NewTV中国功夫,http://112.19.88.97:8899/rtp/239.11.0.151:5140
+NewTV精品大剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
+NewTV精品大剧,http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
+NewTV精品大剧,http://39.134.240.2/PLTV/1/224/3221225630/index.m3u8
+NewTV精品大剧,http://112.19.88.97:8899/rtp/239.11.0.150:5140
+NewTV军旅剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
+NewTV军旅剧场,http://39.134.240.3/PLTV/1/224/3221225640/index.m3u8
+NewTV军旅剧场,http://39.134.240.2/PLTV/1/224/3221225640/index.m3u8
+NewTV军旅剧场,http://112.19.88.97:8899/rtp/239.11.0.143:5140
+NewTV武搏世界,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/index.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/index.m3u8
+NewTV武搏世界,http://36.158.166.3:8089/180000001002/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://39.134.240.3/PLTV/1/224/3221225682/index.m3u8
+NewTV武搏世界,http://39.134.240.2/PLTV/1/224/3221225682/index.m3u8
+NewTV武搏世界,http://112.19.88.97:8899/rtp/239.11.0.146:5140
+NewTV金牌综艺,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
+NewTV金牌综艺,http://39.134.240.3/PLTV/1/224/3221225668/index.m3u8
+NewTV金牌综艺,http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
+NewTV金牌综艺,http://112.19.88.97:8899/rtp/239.11.0.152:5140
