@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.100.60:8081/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-01-30 14:20:19
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-30 14:21:50
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -1775,3 +1775,45 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616
 http://39.134.240.3/PLTV/1/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
 http://39.134.240.2/PLTV/1/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV魅力潇湘.png" group-title="🏛综合频道",NewTV魅力潇湘
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+http://39.134.240.3/PLTV/1/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+http://39.134.240.3/PLTV/1/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=b20eb8f2bd1d3a70eebee858856faddf&wsTime=1769731078
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://111.23.232.117/180000001002/00000001000000000064000000308859/main.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://36.158.166.3:8089/180000001002/00000001000000000064000000308859/main.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://111.23.232.117/180000001002/00000001000000000064000000308859/index.m3u8?
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://111.23.232.117:80/180000001001/00000001000000000060000000023755/main.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
