@@ -1,5 +1,5 @@
-🕘️正在更新中，刷新获取最新结果,#genre#
-2026-01-31 14:19:59,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+🕘️更新时间,#genre#
+2026-01-31 14:21:14,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -919,3 +919,18 @@ NewTV明星大片,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 NewTV明星大片,http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
 NewTV明星大片,http://39.134.240.3/PLTV/1/224/3221225650/index.m3u8
 NewTV农业致富,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
+NewTV农业致富,http://39.134.240.3/PLTV/1/224/3221225654/index.m3u8
+NewTV农业致富,http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/index.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/index.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
+NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=e2433ab98ef3ee7981c94b85935775a6&wsTime=1769817493
+NewTV武搏世界,http://36.158.166.3:8089/180000001002/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://111.23.232.117/180000001002/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,http://111.23.232.117/180000001002/00000001000000000064000000308859/index.m3u8?
+NewTV武搏世界,http://111.23.232.117:80/180000001001/00000001000000000060000000023755/main.m3u8
+NewTV中国功夫,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
+NewTV中国功夫,http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
+NewTV中国功夫,http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
