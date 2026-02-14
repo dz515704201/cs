@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.100.60:8081/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-02-14 17:30:53
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-02-14 17:40:40
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
@@ -870,9 +870,9 @@ http://39.134.240.3/PLTV/1/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
 http://39.134.240.2/PLTV/1/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
-http://39.134.240.2/PLTV/1/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
 http://39.134.240.3/PLTV/1/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
+http://39.134.240.2/PLTV/1/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="config/user_local.txt/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
 http://112.27.235.94:8000/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="config/user_local.txt/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
@@ -892,43 +892,43 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://111.23.232.117/180000001002/00000001000000000010000000040365/main.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/index.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
-http://111.23.232.117/180000001002/00000001000000000010000000040367/index.m3u8?
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+http://111.23.232.117/180000001002/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://36.158.166.3:8089/180000001002/00000001000000000010000000040368/main.m3u8
+http://111.23.232.117/180000001002/00000001000000000010000000040368/main.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/index.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
+#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/index.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://183.215.116.134:6610/180000001001/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/main.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://111.23.232.117/180000001002/32024042210585548805959716256407/main.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="config/user_local.txt/优漫卡通.png" group-title="🪁动画频道",优漫卡通
@@ -956,17 +956,17 @@ http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/main.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
@@ -990,15 +990,15 @@ http://39.134.240.2/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
-http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
 http://39.134.240.3/PLTV/1/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
+http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
-http://39.134.240.3/PLTV/1/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
 http://39.134.240.2/PLTV/1/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
+http://39.134.240.3/PLTV/1/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
@@ -1016,23 +1016,23 @@ http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
-http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://39.134.240.2/PLTV/1/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
+http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
-http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
 http://39.134.240.3/PLTV/1/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
+http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
-http://39.134.240.3/PLTV/1/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://39.134.240.2/PLTV/1/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
+http://39.134.240.3/PLTV/1/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
@@ -1042,9 +1042,9 @@ http://39.134.240.3/PLTV/1/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="config/user_local.txt/NewTV魅力潇湘.png" group-title="🏛综合频道",NewTV魅力潇湘
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=2
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
 http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
@@ -1052,22 +1052,22 @@ http://39.134.240.3/PLTV/1/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
-http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
 http://39.134.240.3/PLTV/1/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/index.m3u8
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
-http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
 http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
