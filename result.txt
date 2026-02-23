@@ -1,21 +1,21 @@
-🕘️更新时间,#genre#
-2026-02-23 14:16:54,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+🕘️正在更新中，刷新获取最新结果,#genre#
+2026-02-24 01:09:59,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
-CCTV-1,http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000021973/1.m3u8
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
+CCTV-1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=4
+CCTV-1,http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000021973/1.m3u8
+CCTV-1,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
 CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8
-CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/main.m3u8
 CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/index.m3u8
+CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/main.m3u8
 CCTV-2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/index.m3u8
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/index.m3u8
-CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047432/index.m3u8
-CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8
 CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047432/main.m3u8
+CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8
+CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047432/index.m3u8
+CCTV-3,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/index.m3u8
 CCTV-3,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=2
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/index.m3u8
 CCTV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/index.m3u8
