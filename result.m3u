@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.100.60:8081/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-02-25 14:00:09
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-02-25 14:10:22
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
@@ -766,17 +766,17 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://183.215.116.134:6610/180000001001/00000001000000001022000000367557/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047444/main.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047444/main.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
@@ -784,17 +784,15 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182274/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182274/main.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/main.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://36.158.166.3:8089/180000001002/00000000000000020000000000182274/main.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/index.m3u8
+http://111.23.232.117/180000001002/00000000000000020000000000182274/main.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
@@ -802,15 +800,17 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-http://111.23.232.117/180000001002/00000000000000020000000000182275/index.m3u8?
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://36.158.166.3:8089/180000001002/00000000000000020000000000182275/main.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://183.215.116.134:6610/180000001001/00000001000000000090000000215606/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="config/user_local.txt/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -824,15 +824,13 @@ http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/index.m3u8?
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -840,15 +838,17 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="config/user_local.txt/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
-http://39.134.240.2/PLTV/1/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://39.134.240.3/PLTV/1/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
+http://39.134.240.2/PLTV/1/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
@@ -856,9 +856,9 @@ http://36.158.166.3:8089/180000001002/00000001000000000050000000448842/main.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://111.23.232.117:80/180000001001/00000001000000000046000000172627/main.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
-http://39.134.240.3/PLTV/1/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://39.134.240.2/PLTV/1/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+http://39.134.240.3/PLTV/1/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
@@ -892,51 +892,51 @@ https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adb
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
-http://111.23.232.117/180000001002/00000001000000000010000000040365/index.m3u8?
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/index.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/index.m3u8
+http://36.158.166.3:8089/180000001002/00000001000000000010000000040365/main.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
-http://36.158.166.3:8089/180000001002/00000001000000000010000000040367/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+http://111.23.232.117/180000001002/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://111.23.232.117/180000001002/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
+http://36.158.166.3:8089/180000001002/00000001000000000010000000040368/main.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/index.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
 #EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/index.m3u8
+#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://183.215.116.134:6610/180000001001/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/main.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://111.23.232.117/180000001002/32024042210585548805959716256407/main.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="config/user_local.txt/优漫卡通.png" group-title="🪁动画频道",优漫卡通
