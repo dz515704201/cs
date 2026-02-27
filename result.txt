@@ -1,5 +1,5 @@
 🕘️正在更新中，刷新获取最新结果,#genre#
-2026-02-27 13:39:59,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
+2026-02-27 13:49:59,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
@@ -226,82 +226,86 @@ CETV-4,http://111.23.232.117:80/180000001001/00000001000000001017000000440665/ma
 都市剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210583485808646614571396/index.m3u8
 都市剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8
 都市剧场,http://111.23.232.117/180000001002/32024042210583485808646614571396/main.m3u8
-法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/index.m3u8
 法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/index.m3u8
-法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8
 法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/main.m3u8
+法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8
+法治天地,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/index.m3u8
 法治天地,http://111.23.232.117/180000001002/32024042210594333901402503226852/main.m3u8
-欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/index.m3u8
 欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/main.m3u8
-欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/index.m3u8
 欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/main.m3u8
-欢笑剧场,http://111.23.232.117/180000001002/32024042210575059626176209727023/index.m3u8?
-环球旅游,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/main.m3u8
-环球旅游,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/index.m3u8?
+欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/index.m3u8
+欢笑剧场,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/index.m3u8
+欢笑剧场,http://111.23.232.117/180000001002/32024042210575059626176209727023/main.m3u8
 环球旅游,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/index.m3u8?
 环球旅游,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/main.m3u8
+环球旅游,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/main.m3u8
+环球旅游,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/index.m3u8?
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 纪实科教,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/index.m3u8
 纪实科教,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8
 纪实科教,http://39.134.240.3/PLTV/1/224/3221226372/index.m3u8
 纪实科教,http://39.134.240.2/PLTV/1/224/3221226372/index.m3u8
-金色学堂,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/main.m3u8
+金色学堂,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/index.m3u8
 金色学堂,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211003612942969703619522/index.m3u8
 金色学堂,http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211003612942969703619522/main.m3u8
-金色学堂,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/index.m3u8
+金色学堂,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/main.m3u8
 金色学堂,http://111.23.232.117/180000001002/32024042211003612942969703619522/main.m3u8
-老故事,http://112.27.235.94:8000/hls/50/index.m3u8
+老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8
+老故事,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/index.m3u8
+老故事,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/index.m3u8
+老故事,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/main.m3u8
+老故事,http://111.23.232.117:80/180000001001/00000001000000000046000000172623/main.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8
-广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/main.m3u8
-广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/index.m3u8
 广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/index.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/index.m3u8
+广东卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/main.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-浙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/main.m3u8
+浙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/index.m3u8?
 浙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/main.m3u8
+北京卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/index.m3u8
 北京卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/main.m3u8
 北京卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/index.m3u8
-北京卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/index.m3u8
 北京卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/main.m3u8
 北京卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=2
 湖北卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047447/main.m3u8
-湖北卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/index.m3u8
 湖北卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/main.m3u8
+湖北卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/index.m3u8
 湖北卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047447/index.m3u8
 湖北卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=2
-黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/main.m3u8
-黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/index.m3u8
+黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8
+黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/main.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/index.m3u8
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
-安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/index.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/index.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/main.m3u8
+安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/index.m3u8
 安徽卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8
-安徽卫视,http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000020780/1.m3u8
-重庆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8
+安徽卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=2
 重庆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308825/main.m3u8
-重庆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308825/index.m3u8
+重庆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8
 重庆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/index.m3u8
+重庆卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308825/index.m3u8
 重庆卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=2
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047445/main.m3u8
+东方卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/index.m3u8
 东方卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/main.m3u8
 东方卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047445/index.m3u8
-东方卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/index.m3u8
 东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/main.m3u8
 东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/index.m3u8
-东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/index.m3u8
+东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/main.m3u8
 东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/main.m3u8
-甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8
+东南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/index.m3u8
 甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/index.m3u8
-甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8
 甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/index.m3u8
+甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8
+甘肃卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8
 甘肃卫视,http://39.134.13.35:6610/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
 广西卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215605/main.m3u8
 广西卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/main.m3u8
