@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.100.60:8081/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-03-01 01:19:03
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-03-01 01:30:17
 http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm
@@ -102,73 +102,73 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/main.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/main.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv10hd265/54/20200407/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=5500212874&pid=2028597139&timestamp=20260228175418&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=36.134.194.191&SecurityKey=20260228175418&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=24cd080b7a0b58726207359d31fe9763&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772272459012&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772272459013&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772272458851V&is_advertise=0&sjid=subsession_1772272461922&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ce84b0d50c6889debf28592eea74e35a
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/main.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/main.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/main.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/index.m3u8
+http://pull-hls-f26.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab7b70&major_anchor_level=common&sign=542803b7c3f5a51fcdb0d7da26b8edaf&t_id=037-202602280912163E3044C1B70B084BC18C-M0fuoH
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429111&major_anchor_level=common&sign=10fca6fe9e747abc153fc55ac3802b10&t_id=037-20260223132511384C2E852DE6485D4D5E-FCV5uD
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/main.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/main.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
-http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000021349/1.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/index.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv14hd265/54/20200407/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=5500212875&pid=2028597139&timestamp=20260228175843&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=36.134.194.235&SecurityKey=20260228175843&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c041999e7a6d703b8d7448eb0438d07f&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772272724275&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772272724283&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772272723890V&is_advertise=0&sjid=subsession_1772272831542&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f151f651df043b134313c30d000ee808
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/main.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20260228174627&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=210.51.27.202&SecurityKey=20260228174627&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c96bdf706265e28228b06af42a4aa9b5&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772271988500&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772271988502&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772271988217V&is_advertise=0&sjid=subsession_1772272075717&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0465591815ee11c173ca63cea8563a1b
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://183.215.116.134:6610/180000001001/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
