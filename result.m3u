@@ -1,1087 +1,1087 @@
 #EXTM3U x-tvg-url="http://192.168.100.60:8081/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️更新时间",2026-02-28 02:15:33
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260227191452&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=110.52.191.67&SecurityKey=20260227191452&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b0b0db21948451f035698cbd2f7af713&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772190892049&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772190892050&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772190891785V&is_advertise=0&sjid=subsession_1772190892322&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=01f709cb967c7383922938cdeba1b74e
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260227191304&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=183.214.133.162&SecurityKey=20260227191304&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fef18365572ca8705256d67bc13eb483&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772190783886&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772190783887&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772190782982V&is_advertise=0&sjid=subsession_1772190786039&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0bf11cfdeaa13f1222f58867fe38612a
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260227191734&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.76.242.223&SecurityKey=20260227191734&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=5c504a5c393213b0bcea8e101d1d8328&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772191054671&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772191054672&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772191054431V&is_advertise=0&sjid=subsession_1772191054928&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=93b4c5eb5b4a2fd49a915c6cb619ae8f
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-02-28 11:50:20
+http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772664317&major_anchor_level=common&sign=7f89074b9ed63f7d0d0650199d9b3205&t_id=037-202602260645176D8644469071061C2EE9-ZOshJm
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000021973/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="config/user_local.txt/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260228090606&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.137.85.25&SecurityKey=20260228090606&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bba55f03a58b9215d259317a6a3dffaf&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1772240766524&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1772240766526&jid=c51d5bdf7da3f733f5f7fec9903f7fae1772240765714V&is_advertise=0&sjid=subsession_1772240767243&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=721f7b326dc56ba529ae8ec87f363d39
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047431/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="config/user_local.txt/CCTV-2.png" group-title="📺央视频道",CCTV-2
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047432/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047432/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047432/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="config/user_local.txt/CCTV-3.png" group-title="📺央视频道",CCTV-3
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="config/user_local.txt/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/main.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="config/user_local.txt/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/main.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="config/user_local.txt/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/main.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047435/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047435/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="config/user_local.txt/CCTV-6.png" group-title="📺央视频道",CCTV-6
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047435/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047436/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047436/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="config/user_local.txt/CCTV-7.png" group-title="📺央视频道",CCTV-7
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047437/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047437/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="config/user_local.txt/CCTV-8.png" group-title="📺央视频道",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047437/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047438/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="config/user_local.txt/CCTV-9.png" group-title="📺央视频道",CCTV-9
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047439/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="config/user_local.txt/CCTV-10.png" group-title="📺央视频道",CCTV-10
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446966/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="config/user_local.txt/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047440/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="config/user_local.txt/CCTV-12.png" group-title="📺央视频道",CCTV-12
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://pull-hls-f11.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1772429111&major_anchor_level=common&sign=10fca6fe9e747abc153fc55ac3802b10&t_id=037-20260223132511384C2E852DE6485D4D5E-FCV5uD
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="config/user_local.txt/CCTV-13.png" group-title="📺央视频道",CCTV-13
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047441/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="config/user_local.txt/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000026000000446967/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="config/user_local.txt/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="config/user_local.txt/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://183.215.116.134:6610/180000001001/00000001000000000079000000434986/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000024152/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="config/user_local.txt/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/1.m3u8
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/1.m3u8
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
 http://39.134.13.35:6610/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
 http://39.134.249.219/wh7f454c46tw2130381965_-824498663/180000001002/00000001000000000016000000007220/main.m3u8?IASHttpSessionId=RR1003220241026101542989287&icpid=2&RTS=1729937647&from=9&hms_devid=24593&online=1729937647&vqe=3
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="config/user_local.txt/CETV-1.png" group-title="📺央视频道",CETV-1
 http://36.158.166.3:8089/180000001002/00000001000000000016000000007220/main.m3u8
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
 http://36.158.166.3:8089/180000001002/00000001000000000024000000361368/main.m3u8
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
 http://39.134.249.215/wh7f454c46tw1660915957_376971580/180000001002/00000001000000000024000000361368/main.m3u8?IASHttpSessionId=RR1009220241027025003095767&icpid=2&RTS=1729997307&from=9&hms_devid=24591&online=1729997307&vqe=3
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-4" tvg-logo="config/user_local.txt/CETV-4.png" group-title="📺央视频道",CETV-4
 http://111.23.232.117:80/180000001001/00000001000000001017000000440665/main.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
+#EXTINF:-1 tvg-id="21" tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
+#EXTINF:-1 tvg-id="21" tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
 https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
+#EXTINF:-1 tvg-id="21" tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
+#EXTINF:-1 tvg-id="21" tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
+#EXTINF:-1 tvg-id="21" tvg-name="湖南卫视" tvg-logo="config/user_local.txt/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040382/index.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
+#EXTINF:-1 tvg-id="22" tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/index.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
+#EXTINF:-1 tvg-id="22" tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/main.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
+#EXTINF:-1 tvg-id="22" tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
+#EXTINF:-1 tvg-id="22" tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/index.m3u8
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
+#EXTINF:-1 tvg-id="22" tvg-name="湖南都市" tvg-logo="config/user_local.txt/湖南都市.png" group-title="☘️湖南频道",湖南都市
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
+#EXTINF:-1 tvg-id="23" tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/index.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
+#EXTINF:-1 tvg-id="23" tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/index.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
+#EXTINF:-1 tvg-id="23" tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
+#EXTINF:-1 tvg-id="23" tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
+#EXTINF:-1 tvg-id="23" tvg-name="湖南经视" tvg-logo="config/user_local.txt/湖南经视.png" group-title="☘️湖南频道",湖南经视
 http://183.215.116.134:6610/180000001001/00000001000000000002000000113182/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="24" tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="24" tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/index.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="24" tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="24" tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/index.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
+#EXTINF:-1 tvg-id="24" tvg-name="湖南电视剧" tvg-logo="config/user_local.txt/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
 http://183.215.116.134:6610/180000001001/00000001000000000007000000001245/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
+#EXTINF:-1 tvg-id="25" tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
+#EXTINF:-1 tvg-id="25" tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/index.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
+#EXTINF:-1 tvg-id="25" tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/index.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
+#EXTINF:-1 tvg-id="25" tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/main.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
+#EXTINF:-1 tvg-id="25" tvg-name="湖南电影" tvg-logo="config/user_local.txt/湖南电影.png" group-title="☘️湖南频道",湖南电影
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="26" tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/main.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="26" tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/index.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="26" tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/index.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="26" tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/main.m3u8
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="26" tvg-name="湖南爱晚" tvg-logo="config/user_local.txt/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
 http://183.215.116.134:6610/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/index.m3u8
-#EXTINF:-1 tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
-#EXTINF:-1 tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/index.m3u8
-#EXTINF:-1 tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8
-#EXTINF:-1 tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
+#EXTINF:-1 tvg-id="27" tvg-name="湖南教育" tvg-logo="config/user_local.txt/湖南教育.png" group-title="☘️湖南频道",湖南教育
 http://111.23.232.117/180000001002/00000001000000000023000000196697/index.m3u8?
-#EXTINF:-1 tvg-name="湖南公共" tvg-logo="config/user_local.txt/湖南公共.png" group-title="☘️湖南频道",湖南公共
+#EXTINF:-1 tvg-id="28" tvg-name="湖南公共" tvg-logo="config/user_local.txt/湖南公共.png" group-title="☘️湖南频道",湖南公共
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+#EXTINF:-1 tvg-id="29" tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+#EXTINF:-1 tvg-id="29" tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+#EXTINF:-1 tvg-id="29" tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+#EXTINF:-1 tvg-id="29" tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+#EXTINF:-1 tvg-id="29" tvg-name="金鹰纪实" tvg-logo="config/user_local.txt/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://183.215.116.134:6610/180000001001/00000001000000000016000000007228/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="config/user_local.txt/长沙新闻综合.png" group-title="☘️湖南频道",长沙新闻综合
+#EXTINF:-1 tvg-id="30" tvg-name="长沙新闻综合" tvg-logo="config/user_local.txt/长沙新闻综合.png" group-title="☘️湖南频道",长沙新闻综合
 http://ls.qingting.fm/live/4877.m3u8
-#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
+#EXTINF:-1 tvg-id="31" tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8
-#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
+#EXTINF:-1 tvg-id="31" tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/index.m3u8
-#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
+#EXTINF:-1 tvg-id="31" tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047429/index.m3u8
-#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
+#EXTINF:-1 tvg-id="31" tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047429/main.m3u8
-#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
+#EXTINF:-1 tvg-id="31" tvg-name="长沙新闻" tvg-logo="config/user_local.txt/长沙新闻.png" group-title="☘️湖南频道",长沙新闻
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000048/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
+#EXTINF:-1 tvg-id="32" tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047430/index.m3u8
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
+#EXTINF:-1 tvg-id="32" tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047430/main.m3u8
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
+#EXTINF:-1 tvg-id="32" tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/index.m3u8
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
+#EXTINF:-1 tvg-id="32" tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
+#EXTINF:-1 tvg-id="32" tvg-name="长沙政法" tvg-logo="config/user_local.txt/长沙政法.png" group-title="☘️湖南频道",长沙政法
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000049/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
+#EXTINF:-1 tvg-id="33" tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000088000000189333/main.m3u8
-#EXTINF:-1 tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
+#EXTINF:-1 tvg-id="33" tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000088000000189333/main.m3u8
-#EXTINF:-1 tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
+#EXTINF:-1 tvg-id="33" tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000088000000189333/index.m3u8
-#EXTINF:-1 tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
+#EXTINF:-1 tvg-id="33" tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000088000000189333/index.m3u8
-#EXTINF:-1 tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
+#EXTINF:-1 tvg-id="33" tvg-name="宁乡综合" tvg-logo="config/user_local.txt/宁乡综合.png" group-title="☘️湖南频道",宁乡综合
 http://111.23.232.117/180000001002/00000001000000000088000000189333/index.m3u8
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
+#EXTINF:-1 tvg-id="34" tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
+#EXTINF:-1 tvg-id="34" tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/index.m3u8
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
+#EXTINF:-1 tvg-id="34" tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/1.m3u8
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
+#EXTINF:-1 tvg-id="34" tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244810/main.m3u8
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
+#EXTINF:-1 tvg-id="34" tvg-name="文化精品" tvg-logo="config/user_local.txt/文化精品.png" group-title="💰央视付费频道",文化精品
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244810/index.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
+#EXTINF:-1 tvg-id="35" tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244803/1.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
+#EXTINF:-1 tvg-id="35" tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
 http://39.134.13.35:6610/180000001001/00000001000000000091000000244803/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
+#EXTINF:-1 tvg-id="35" tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
 http://39.134.246.5:6610/180000001001/00000001000000000091000000244803/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
+#EXTINF:-1 tvg-id="35" tvg-name="央视台球" tvg-logo="config/user_local.txt/央视台球.png" group-title="💰央视付费频道",央视台球
 http://39.134.249.220/wh7f454c46tw2419892060_-648491827/180000001002/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=RR987020241027030241464026&icpid=2&RTS=1729998066&from=9&hms_devid=24589&online=1729998066&vqe=3
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
+#EXTINF:-1 tvg-id="36" tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244809/1.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
+#EXTINF:-1 tvg-id="36" tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244809/main.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
+#EXTINF:-1 tvg-id="36" tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
+#EXTINF:-1 tvg-id="36" tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244809/index.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
+#EXTINF:-1 tvg-id="36" tvg-name="风云音乐" tvg-logo="config/user_local.txt/风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://tvgslb.hn.chinamobile.com:8089/180000002002/00000001000000000091000000244809/main.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
+#EXTINF:-1 tvg-id="37" tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/index.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
+#EXTINF:-1 tvg-id="37" tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244808/main.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
+#EXTINF:-1 tvg-id="37" tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244808/1.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
+#EXTINF:-1 tvg-id="37" tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
+#EXTINF:-1 tvg-id="37" tvg-name="第一剧场" tvg-logo="config/user_local.txt/第一剧场.png" group-title="💰央视付费频道",第一剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244808/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
+#EXTINF:-1 tvg-id="38" tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
+#EXTINF:-1 tvg-id="38" tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
+#EXTINF:-1 tvg-id="38" tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
+#EXTINF:-1 tvg-id="38" tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
+#EXTINF:-1 tvg-id="38" tvg-name="风云剧场" tvg-logo="config/user_local.txt/风云剧场.png" group-title="💰央视付费频道",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/1.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+#EXTINF:-1 tvg-id="39" tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/index.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+#EXTINF:-1 tvg-id="39" tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/1.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+#EXTINF:-1 tvg-id="39" tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+#EXTINF:-1 tvg-id="39" tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/main.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+#EXTINF:-1 tvg-id="39" tvg-name="怀旧剧场" tvg-logo="config/user_local.txt/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/index.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
+#EXTINF:-1 tvg-id="40" tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244811/1.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
+#EXTINF:-1 tvg-id="40" tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
 http://39.134.13.35:6610/180000001001/00000001000000000091000000244811/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
+#EXTINF:-1 tvg-id="40" tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
 http://39.134.246.5:6610/180000001001/00000001000000000091000000244811/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
+#EXTINF:-1 tvg-id="40" tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
 http://39.134.249.221/wh7f454c46tw2211038844_-1614941800/180000001002/00000001000000000091000000244811/main.m3u8?IASHttpSessionId=RR1004420241027025913504529&icpid=2&RTS=1729997857&from=9&hms_devid=24589&online=1729997857&vqe=3
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
+#EXTINF:-1 tvg-id="40" tvg-name="女性时尚" tvg-logo="config/user_local.txt/女性时尚.png" group-title="💰央视付费频道",女性时尚
 http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
+#EXTINF:-1 tvg-id="41" tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
+#EXTINF:-1 tvg-id="41" tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
+#EXTINF:-1 tvg-id="41" tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/1.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
+#EXTINF:-1 tvg-id="41" tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
+#EXTINF:-1 tvg-id="41" tvg-name="风云足球" tvg-logo="config/user_local.txt/风云足球.png" group-title="💰央视付费频道",风云足球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/1.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
+#EXTINF:-1 tvg-id="42" tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
+#EXTINF:-1 tvg-id="42" tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/1.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
+#EXTINF:-1 tvg-id="42" tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244805/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
+#EXTINF:-1 tvg-id="42" tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244805/main.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
+#EXTINF:-1 tvg-id="42" tvg-name="世界地理" tvg-logo="config/user_local.txt/世界地理.png" group-title="💰央视付费频道",世界地理
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244805/main.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
+#EXTINF:-1 tvg-id="43" tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/1.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
+#EXTINF:-1 tvg-id="43" tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/main.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
+#EXTINF:-1 tvg-id="43" tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/1.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
+#EXTINF:-1 tvg-id="43" tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
+#EXTINF:-1 tvg-id="43" tvg-name="兵器科技" tvg-logo="config/user_local.txt/兵器科技.png" group-title="💰央视付费频道",兵器科技
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/index.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
+#EXTINF:-1 tvg-id="44" tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308848/index.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
+#EXTINF:-1 tvg-id="44" tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308848/main.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
+#EXTINF:-1 tvg-id="44" tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/index.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
+#EXTINF:-1 tvg-id="44" tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
+#EXTINF:-1 tvg-id="44" tvg-name="文物宝库" tvg-logo="config/user_local.txt/文物宝库.png" group-title="💰央视付费频道",文物宝库
 http://36.158.166.3:8089/180000001002/00000001000000000064000000308848/main.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
+#EXTINF:-1 tvg-id="45" tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042209595643000133896920951/index.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
+#EXTINF:-1 tvg-id="45" tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042209595643000133896920951/index.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
+#EXTINF:-1 tvg-id="45" tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042209595643000133896920951/main.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
+#EXTINF:-1 tvg-id="45" tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042209595643000133896920951/main.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
+#EXTINF:-1 tvg-id="45" tvg-name="东方财经" tvg-logo="config/user_local.txt/东方财经.png" group-title="💰央视付费频道",东方财经
 http://111.23.232.117/180000001002/32024042209595643000133896920951/main.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
+#EXTINF:-1 tvg-id="46" tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
+#EXTINF:-1 tvg-id="46" tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210583485808646614571396/main.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
+#EXTINF:-1 tvg-id="46" tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210583485808646614571396/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
+#EXTINF:-1 tvg-id="46" tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
+#EXTINF:-1 tvg-id="46" tvg-name="都市剧场" tvg-logo="config/user_local.txt/都市剧场.png" group-title="💰央视付费频道",都市剧场
 http://111.23.232.117/180000001002/32024042210583485808646614571396/main.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
+#EXTINF:-1 tvg-id="47" tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/index.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
+#EXTINF:-1 tvg-id="47" tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210594333901402503226852/main.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
+#EXTINF:-1 tvg-id="47" tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
+#EXTINF:-1 tvg-id="47" tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/index.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
+#EXTINF:-1 tvg-id="47" tvg-name="法治天地" tvg-logo="config/user_local.txt/法治天地.png" group-title="💰央视付费频道",法治天地
 http://111.23.232.117/180000001002/32024042210594333901402503226852/main.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
+#EXTINF:-1 tvg-id="48" tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
+#EXTINF:-1 tvg-id="48" tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/main.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
+#EXTINF:-1 tvg-id="48" tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/main.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
+#EXTINF:-1 tvg-id="48" tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210575059626176209727023/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
+#EXTINF:-1 tvg-id="48" tvg-name="欢笑剧场" tvg-logo="config/user_local.txt/欢笑剧场.png" group-title="💰央视付费频道",欢笑剧场
 http://111.23.232.117/180000001002/32024042210575059626176209727023/index.m3u8?
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
+#EXTINF:-1 tvg-id="49" tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/index.m3u8?
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
+#EXTINF:-1 tvg-id="49" tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/index.m3u8?
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
+#EXTINF:-1 tvg-id="49" tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/main.m3u8
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
+#EXTINF:-1 tvg-id="49" tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308870/main.m3u8
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
+#EXTINF:-1 tvg-id="49" tvg-name="环球旅游" tvg-logo="config/user_local.txt/环球旅游.png" group-title="💰央视付费频道",环球旅游
 http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
+#EXTINF:-1 tvg-id="50" tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
+#EXTINF:-1 tvg-id="50" tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/index.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
+#EXTINF:-1 tvg-id="50" tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
 http://39.134.240.3/PLTV/1/224/3221226372/index.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
+#EXTINF:-1 tvg-id="50" tvg-name="纪实科教" tvg-logo="config/user_local.txt/纪实科教.png" group-title="💰央视付费频道",纪实科教
 http://39.134.240.2/PLTV/1/224/3221226372/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
+#EXTINF:-1 tvg-id="51" tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
+#EXTINF:-1 tvg-id="51" tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/main.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
+#EXTINF:-1 tvg-id="51" tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211003612942969703619522/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
+#EXTINF:-1 tvg-id="51" tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211003612942969703619522/main.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
+#EXTINF:-1 tvg-id="51" tvg-name="金色学堂" tvg-logo="config/user_local.txt/金色学堂.png" group-title="💰央视付费频道",金色学堂
 http://111.23.232.117/180000001002/32024042211003612942969703619522/main.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="52" tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="52" tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/index.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="52" tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/index.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="52" tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/main.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="52" tvg-name="老故事" tvg-logo="config/user_local.txt/老故事.png" group-title="💰央视付费频道",老故事
 http://111.23.232.117:80/180000001001/00000001000000000046000000172623/main.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
+#EXTINF:-1 tvg-id="53" tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
+#EXTINF:-1 tvg-id="53" tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
+#EXTINF:-1 tvg-id="53" tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
+#EXTINF:-1 tvg-id="53" tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
+#EXTINF:-1 tvg-id="53" tvg-name="广东卫视" tvg-logo="config/user_local.txt/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/main.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="54" tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="54" tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="54" tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="54" tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/main.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="54" tvg-name="浙江卫视" tvg-logo="config/user_local.txt/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
+#EXTINF:-1 tvg-id="55" tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/main.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
+#EXTINF:-1 tvg-id="55" tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/main.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
+#EXTINF:-1 tvg-id="55" tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
+#EXTINF:-1 tvg-id="55" tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
+#EXTINF:-1 tvg-id="55" tvg-name="北京卫视" tvg-logo="config/user_local.txt/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="56" tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047447/main.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="56" tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047447/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="56" tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="56" tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/main.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+#EXTINF:-1 tvg-id="56" tvg-name="湖北卫视" tvg-logo="config/user_local.txt/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="57" tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="57" tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="57" tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="57" tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/main.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-id="57" tvg-name="黑龙江卫视" tvg-logo="config/user_local.txt/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="58" tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/main.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="58" tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="58" tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007224/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="58" tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/main.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+#EXTINF:-1 tvg-id="58" tvg-name="安徽卫视" tvg-logo="config/user_local.txt/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="59" tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308825/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="59" tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="59" tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308825/main.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="59" tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+#EXTINF:-1 tvg-id="59" tvg-name="重庆卫视" tvg-logo="config/user_local.txt/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/main.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047445/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="东方卫视" tvg-logo="config/user_local.txt/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047445/main.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-id="61" tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-id="61" tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-id="61" tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/main.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-id="61" tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040459/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-id="61" tvg-name="东南卫视" tvg-logo="config/user_local.txt/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/main.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="62" tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/main.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="62" tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133802/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="62" tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="62" tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-id="62" tvg-name="甘肃卫视" tvg-logo="config/user_local.txt/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://39.134.13.35:6610/180000001001/00000001000000000045000000287932/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
+#EXTINF:-1 tvg-id="63" tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
+#EXTINF:-1 tvg-id="63" tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215605/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
+#EXTINF:-1 tvg-id="63" tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215605/main.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
+#EXTINF:-1 tvg-id="63" tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/main.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
+#EXTINF:-1 tvg-id="63" tvg-name="广西卫视" tvg-logo="config/user_local.txt/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="64" tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040424/main.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="64" tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040424/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="64" tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007221/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="64" tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+#EXTINF:-1 tvg-id="64" tvg-name="贵州卫视" tvg-logo="config/user_local.txt/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007221/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-id="65" tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208265/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-id="65" tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208265/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-id="65" tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://183.215.116.134:6610/180000001001/00000001000000000057000000208265/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-id="65" tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://36.158.166.3:8089/180000001002/00000001000000000057000000208265/main.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-id="65" tvg-name="海南卫视" tvg-logo="config/user_local.txt/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-id="66" tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007223/main.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-id="66" tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007223/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-id="66" tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007223/main.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-id="66" tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007223/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-id="66" tvg-name="河北卫视" tvg-logo="config/user_local.txt/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://39.134.13.35:6610/180000001001/00000001000000001007000000063290/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
+#EXTINF:-1 tvg-id="67" tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208264/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
+#EXTINF:-1 tvg-id="67" tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208264/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
+#EXTINF:-1 tvg-id="67" tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208264/main.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
+#EXTINF:-1 tvg-id="67" tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208264/main.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
+#EXTINF:-1 tvg-id="67" tvg-name="河南卫视" tvg-logo="config/user_local.txt/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="68" tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208223/main.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="68" tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208223/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="68" tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208223/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="68" tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208223/main.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+#EXTINF:-1 tvg-id="68" tvg-name="吉林卫视" tvg-logo="config/user_local.txt/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://183.215.116.134:6610/180000001001/00000001000000000057000000208223/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="69" tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="69" tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001244/main.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="69" tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001244/main.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="69" tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001244/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="69" tvg-name="江苏卫视" tvg-logo="config/user_local.txt/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001244/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
+#EXTINF:-1 tvg-id="70" tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/main.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
+#EXTINF:-1 tvg-id="70" tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308822/main.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
+#EXTINF:-1 tvg-id="70" tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308822/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
+#EXTINF:-1 tvg-id="70" tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
+#EXTINF:-1 tvg-id="70" tvg-name="江西卫视" tvg-logo="config/user_local.txt/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://183.215.116.134:6610/180000001001/00000000000000020000000000182287/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="71" tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="71" tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007225/main.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="71" tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007225/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="71" tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007225/main.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+#EXTINF:-1 tvg-id="71" tvg-name="辽宁卫视" tvg-logo="config/user_local.txt/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007225/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="72" tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182272/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="72" tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182272/main.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="72" tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182272/main.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="72" tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182272/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="72" tvg-name="内蒙古卫视" tvg-logo="config/user_local.txt/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="73" tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182273/main.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="73" tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182273/main.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="73" tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182273/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="73" tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182273/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+#EXTINF:-1 tvg-id="73" tvg-name="宁夏卫视" tvg-logo="config/user_local.txt/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://36.158.166.3:8089/180000001002/00000000000000020000000000182273/main.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
+#EXTINF:-1 tvg-id="74" tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215609/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
+#EXTINF:-1 tvg-id="74" tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215609/main.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
+#EXTINF:-1 tvg-id="74" tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
+#EXTINF:-1 tvg-id="74" tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/main.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
+#EXTINF:-1 tvg-id="74" tvg-name="青海卫视" tvg-logo="config/user_local.txt/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://36.158.166.3:8089/180000001001/00000001000000000090000000215609/main.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
+#EXTINF:-1 tvg-id="75" tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
 https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
+#EXTINF:-1 tvg-id="75" tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
 https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
+#EXTINF:-1 tvg-id="75" tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
+#EXTINF:-1 tvg-id="75" tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047448/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
+#EXTINF:-1 tvg-id="75" tvg-name="山东卫视" tvg-logo="config/user_local.txt/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047448/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-id="76" tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182271/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-id="76" tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182271/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-id="76" tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182271/main.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-id="76" tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182271/main.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-id="76" tvg-name="山西卫视" tvg-logo="config/user_local.txt/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://111.23.232.117/180000001002/00000000000000020000000000182271/index.m3u8?
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="77" tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="77" tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215607/main.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="77" tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215607/main.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="77" tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215607/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-id="77" tvg-name="陕西卫视" tvg-logo="config/user_local.txt/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215607/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308823/main.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308823/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308823/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308823/main.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="config/user_local.txt/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://183.215.116.134:6610/180000001001/00000001000000000064000000308823/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="79" tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/index.m3u8?
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="79" tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/index.m3u8?
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="79" tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/main.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="79" tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/main.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+#EXTINF:-1 tvg-id="79" tvg-name="深圳卫视" tvg-logo="config/user_local.txt/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="80" tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="80" tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/index.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="80" tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/index.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="80" tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+#EXTINF:-1 tvg-id="80" tvg-name="三沙卫视" tvg-logo="config/user_local.txt/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
+#EXTINF:-1 tvg-id="81" tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047444/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
+#EXTINF:-1 tvg-id="81" tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
+#EXTINF:-1 tvg-id="81" tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047444/main.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
+#EXTINF:-1 tvg-id="81" tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
+#EXTINF:-1 tvg-id="81" tvg-name="天津卫视" tvg-logo="config/user_local.txt/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+#EXTINF:-1 tvg-id="82" tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182274/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+#EXTINF:-1 tvg-id="82" tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/main.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+#EXTINF:-1 tvg-id="82" tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182274/main.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+#EXTINF:-1 tvg-id="82" tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+#EXTINF:-1 tvg-id="82" tvg-name="西藏卫视" tvg-logo="config/user_local.txt/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://36.158.166.3:8089/180000001002/00000000000000020000000000182274/main.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="83" tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/main.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="83" tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="83" tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="83" tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182275/main.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+#EXTINF:-1 tvg-id="83" tvg-name="新疆卫视" tvg-logo="config/user_local.txt/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://111.23.232.117/180000001002/00000000000000020000000000182275/main.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-id="84" tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-id="84" tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/main.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-id="84" tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215606/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-id="84" tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-id="84" tvg-name="云南卫视" tvg-logo="config/user_local.txt/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://183.215.116.134:6610/180000001001/00000001000000000090000000215606/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="config/user_local.txt/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+#EXTINF:-1 tvg-id="85" tvg-name="凤凰中文" tvg-logo="config/user_local.txt/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://112.19.88.97:8899/rtp/239.11.0.153:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="config/user_local.txt/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+#EXTINF:-1 tvg-id="86" tvg-name="凤凰资讯" tvg-logo="config/user_local.txt/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://112.19.88.97:8899/rtp/239.11.0.154:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="config/user_local.txt/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+#EXTINF:-1 tvg-id="87" tvg-name="凤凰香港" tvg-logo="config/user_local.txt/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://pull-vivek.speedws.com/live/aaafhxg.flv
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="config/user_local.txt/香港卫视.png" group-title="🌊港·澳·台",香港卫视
+#EXTINF:-1 tvg-id="88" tvg-name="香港卫视" tvg-logo="config/user_local.txt/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+#EXTINF:-1 tvg-id="89" tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+#EXTINF:-1 tvg-id="89" tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/index.m3u8?
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+#EXTINF:-1 tvg-id="89" tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+#EXTINF:-1 tvg-id="89" tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
+#EXTINF:-1 tvg-id="89" tvg-name="CHC家庭影院" tvg-logo="config/user_local.txt/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="90" tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="90" tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="90" tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="90" tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="90" tvg-name="CHC动作电影" tvg-logo="config/user_local.txt/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="config/user_local.txt/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+#EXTINF:-1 tvg-id="91" tvg-name="CHC高清电影" tvg-logo="config/user_local.txt/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="92" tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="92" tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://39.134.240.2/PLTV/1/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="92" tvg-name="NewTV惊悚悬疑" tvg-logo="config/user_local.txt/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://39.134.240.3/PLTV/1/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+#EXTINF:-1 tvg-id="93" tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+#EXTINF:-1 tvg-id="93" tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://36.158.166.3:8089/180000001002/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+#EXTINF:-1 tvg-id="93" tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://111.23.232.117:80/180000001001/00000001000000000046000000172627/main.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+#EXTINF:-1 tvg-id="93" tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://39.134.240.3/PLTV/1/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+#EXTINF:-1 tvg-id="93" tvg-name="NewTV动作电影" tvg-logo="config/user_local.txt/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://39.134.240.2/PLTV/1/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
+#EXTINF:-1 tvg-id="94" tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
+#EXTINF:-1 tvg-id="94" tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
 http://39.134.240.3/PLTV/1/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
+#EXTINF:-1 tvg-id="94" tvg-name="NewTV黑莓电影" tvg-logo="config/user_local.txt/NewTV黑莓电影.png" group-title="🎬电影频道",NewTV黑莓电影
 http://39.134.240.2/PLTV/1/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="config/user_local.txt/天映经典.png" group-title="🎬电影频道",天映经典
+#EXTINF:-1 tvg-id="95" tvg-name="天映经典" tvg-logo="config/user_local.txt/天映经典.png" group-title="🎬电影频道",天映经典
 http://pull-vivek.speedws.com/live/aaatyjd.flv
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="config/user_local.txt/广东体育.png" group-title="🏀体育频道",广东体育
+#EXTINF:-1 tvg-id="96" tvg-name="广东体育" tvg-logo="config/user_local.txt/广东体育.png" group-title="🏀体育频道",广东体育
 http://74.91.26.218:82/live/gdty.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="config/user_local.txt/NewTV超级体育.png" group-title="🏀体育频道",NewTV超级体育
+#EXTINF:-1 tvg-id="97" tvg-name="NewTV超级体育" tvg-logo="config/user_local.txt/NewTV超级体育.png" group-title="🏀体育频道",NewTV超级体育
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
+#EXTINF:-1 tvg-id="98" tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
+#EXTINF:-1 tvg-id="98" tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
 http://39.134.240.3/PLTV/1/224/3221225626/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
+#EXTINF:-1 tvg-id="98" tvg-name="NewTV精品体育" tvg-logo="config/user_local.txt/NewTV精品体育.png" group-title="🏀体育频道",NewTV精品体育
 http://39.134.240.2/PLTV/1/224/3221225626/index.m3u8
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
+#EXTINF:-1 tvg-id="99" tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
 http://39.134.240.2/PLTV/1/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
+#EXTINF:-1 tvg-id="99" tvg-name="NewTV哒啵赛事" tvg-logo="config/user_local.txt/NewTV哒啵赛事.png" group-title="🏀体育频道",NewTV哒啵赛事
 http://39.134.240.3/PLTV/1/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="config/user_local.txt/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
+#EXTINF:-1 tvg-id="100" tvg-name="安徽综艺体育" tvg-logo="config/user_local.txt/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
 http://112.27.235.94:8000/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="config/user_local.txt/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
+#EXTINF:-1 tvg-id="101" tvg-name="睛彩篮球" tvg-logo="config/user_local.txt/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://112.19.88.97:8899/rtp/239.11.0.122:5140
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="config/user_local.txt/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
+#EXTINF:-1 tvg-id="102" tvg-name="睛彩广场舞" tvg-logo="config/user_local.txt/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://112.19.88.97:8899/rtp/239.10.0.131:5140
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="config/user_local.txt/魅力足球.png" group-title="🏀体育频道",魅力足球
+#EXTINF:-1 tvg-id="103" tvg-name="魅力足球" tvg-logo="config/user_local.txt/魅力足球.png" group-title="🏀体育频道",魅力足球
 https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
+#EXTINF:-1 tvg-id="104" tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
+#EXTINF:-1 tvg-id="104" tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
+#EXTINF:-1 tvg-id="104" tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/index.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
+#EXTINF:-1 tvg-id="104" tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/index.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
+#EXTINF:-1 tvg-id="104" tvg-name="天元围棋" tvg-logo="config/user_local.txt/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://111.23.232.117/180000001002/00000001000000000010000000040365/index.m3u8?
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+#EXTINF:-1 tvg-id="105" tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/index.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+#EXTINF:-1 tvg-id="105" tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/index.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+#EXTINF:-1 tvg-id="105" tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/main.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+#EXTINF:-1 tvg-id="105" tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
+#EXTINF:-1 tvg-id="105" tvg-name="四海钓鱼" tvg-logo="config/user_local.txt/四海钓鱼.png" group-title="🏀体育频道",四海钓鱼
 http://111.23.232.117/180000001002/00000001000000000010000000040367/index.m3u8?
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/index.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/index.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+#EXTINF:-1 tvg-id="106" tvg-name="快乐垂钓" tvg-logo="config/user_local.txt/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://36.158.166.3:8089/180000001002/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+#EXTINF:-1 tvg-id="107" tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+#EXTINF:-1 tvg-id="107" tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+#EXTINF:-1 tvg-id="107" tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+#EXTINF:-1 tvg-id="107" tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
+#EXTINF:-1 tvg-id="107" tvg-name="北京卡酷" tvg-logo="config/user_local.txt/北京卡酷.png" group-title="🪁动画频道",北京卡酷
 http://183.215.116.134:6610/180000001001/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+#EXTINF:-1 tvg-id="108" tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+#EXTINF:-1 tvg-id="108" tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+#EXTINF:-1 tvg-id="108" tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/main.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+#EXTINF:-1 tvg-id="108" tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210585548805959716256407/main.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+#EXTINF:-1 tvg-id="108" tvg-name="动漫秀场" tvg-logo="config/user_local.txt/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://111.23.232.117/180000001002/32024042210585548805959716256407/main.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="config/user_local.txt/优漫卡通.png" group-title="🪁动画频道",优漫卡通
+#EXTINF:-1 tvg-id="109" tvg-name="优漫卡通" tvg-logo="config/user_local.txt/优漫卡通.png" group-title="🪁动画频道",优漫卡通
 https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+#EXTINF:-1 tvg-id="110" tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001247/main.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+#EXTINF:-1 tvg-id="110" tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+#EXTINF:-1 tvg-id="110" tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+#EXTINF:-1 tvg-id="110" tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001247/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+#EXTINF:-1 tvg-id="110" tvg-name="金鹰卡通" tvg-logo="config/user_local.txt/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="config/user_local.txt/NewTV黑莓动画.png" group-title="🪁动画频道",NewTV黑莓动画
+#EXTINF:-1 tvg-id="111" tvg-name="NewTV黑莓动画" tvg-logo="config/user_local.txt/NewTV黑莓动画.png" group-title="🪁动画频道",NewTV黑莓动画
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="config/user_local.txt/NewTV黑莓动画.png" group-title="🪁动画频道",NewTV黑莓动画
+#EXTINF:-1 tvg-id="111" tvg-name="NewTV黑莓动画" tvg-logo="config/user_local.txt/NewTV黑莓动画.png" group-title="🪁动画频道",NewTV黑莓动画
 http://39.134.240.2/PLTV/1/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="config/user_local.txt/NewTV黑莓动画.png" group-title="🪁动画频道",NewTV黑莓动画
+#EXTINF:-1 tvg-id="111" tvg-name="NewTV黑莓动画" tvg-logo="config/user_local.txt/NewTV黑莓动画.png" group-title="🪁动画频道",NewTV黑莓动画
 http://39.134.240.3/PLTV/1/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+#EXTINF:-1 tvg-id="112" tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+#EXTINF:-1 tvg-id="112" tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+#EXTINF:-1 tvg-id="112" tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+#EXTINF:-1 tvg-id="112" tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+#EXTINF:-1 tvg-id="112" tvg-name="浙江少儿" tvg-logo="config/user_local.txt/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
+#EXTINF:-1 tvg-id="113" tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/index.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
+#EXTINF:-1 tvg-id="113" tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/index.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
+#EXTINF:-1 tvg-id="113" tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042211010049110856436458678/main.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
+#EXTINF:-1 tvg-id="113" tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
+#EXTINF:-1 tvg-id="113" tvg-name="游戏风云" tvg-logo="config/user_local.txt/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://111.23.232.117/180000001002/32024042211010049110856436458678/index.m3u8?
-#EXTINF:-1 tvg-name="黑莓电竞" tvg-logo="config/user_local.txt/黑莓电竞.png" group-title="🎮游戏频道",黑莓电竞
+#EXTINF:-1 tvg-id="114" tvg-name="黑莓电竞" tvg-logo="config/user_local.txt/黑莓电竞.png" group-title="🎮游戏频道",黑莓电竞
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="黑莓电竞" tvg-logo="config/user_local.txt/黑莓电竞.png" group-title="🎮游戏频道",黑莓电竞
+#EXTINF:-1 tvg-id="114" tvg-name="黑莓电竞" tvg-logo="config/user_local.txt/黑莓电竞.png" group-title="🎮游戏频道",黑莓电竞
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="config/user_local.txt/音乐现场.png" group-title="🎵音乐频道",音乐现场
+#EXTINF:-1 tvg-id="115" tvg-name="音乐现场" tvg-logo="config/user_local.txt/音乐现场.png" group-title="🎵音乐频道",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="config/user_local.txt/音乐现场.png" group-title="🎵音乐频道",音乐现场
+#EXTINF:-1 tvg-id="115" tvg-name="音乐现场" tvg-logo="config/user_local.txt/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="潮流音乐" tvg-logo="config/user_local.txt/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
+#EXTINF:-1 tvg-id="116" tvg-name="潮流音乐" tvg-logo="config/user_local.txt/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="config/user_local.txt/NewTV爱情喜剧.png" group-title="🏛综合频道",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="117" tvg-name="NewTV爱情喜剧" tvg-logo="config/user_local.txt/NewTV爱情喜剧.png" group-title="🏛综合频道",NewTV爱情喜剧
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="config/user_local.txt/NewTV爱情喜剧.png" group-title="🏛综合频道",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="117" tvg-name="NewTV爱情喜剧" tvg-logo="config/user_local.txt/NewTV爱情喜剧.png" group-title="🏛综合频道",NewTV爱情喜剧
 http://39.134.240.2/PLTV/1/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="config/user_local.txt/NewTV爱情喜剧.png" group-title="🏛综合频道",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="117" tvg-name="NewTV爱情喜剧" tvg-logo="config/user_local.txt/NewTV爱情喜剧.png" group-title="🏛综合频道",NewTV爱情喜剧
 http://39.134.240.3/PLTV/1/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
+#EXTINF:-1 tvg-id="118" tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
+#EXTINF:-1 tvg-id="118" tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
 http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
+#EXTINF:-1 tvg-id="118" tvg-name="NewTV古装剧场" tvg-logo="config/user_local.txt/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
 http://39.134.240.3/PLTV/1/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
+#EXTINF:-1 tvg-id="119" tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
+#EXTINF:-1 tvg-id="119" tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
 http://39.134.240.3/PLTV/1/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
+#EXTINF:-1 tvg-id="119" tvg-name="NewTV海外剧场" tvg-logo="config/user_local.txt/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
 http://39.134.240.2/PLTV/1/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
+#EXTINF:-1 tvg-id="120" tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
+#EXTINF:-1 tvg-id="120" tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
+#EXTINF:-1 tvg-id="120" tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://39.134.240.2/PLTV/1/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
+#EXTINF:-1 tvg-id="120" tvg-name="NewTV家庭剧场" tvg-logo="config/user_local.txt/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="config/user_local.txt/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
+#EXTINF:-1 tvg-id="121" tvg-name="NewTV金牌综艺" tvg-logo="config/user_local.txt/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="config/user_local.txt/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
+#EXTINF:-1 tvg-id="121" tvg-name="NewTV金牌综艺" tvg-logo="config/user_local.txt/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
 http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="config/user_local.txt/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
+#EXTINF:-1 tvg-id="121" tvg-name="NewTV金牌综艺" tvg-logo="config/user_local.txt/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
 http://39.134.240.3/PLTV/1/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
+#EXTINF:-1 tvg-id="122" tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
+#EXTINF:-1 tvg-id="122" tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://39.134.240.2/PLTV/1/224/3221225630/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
+#EXTINF:-1 tvg-id="122" tvg-name="NewTV精品大剧" tvg-logo="config/user_local.txt/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
+#EXTINF:-1 tvg-id="123" tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
+#EXTINF:-1 tvg-id="123" tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
 http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
+#EXTINF:-1 tvg-id="123" tvg-name="NewTV精品纪录" tvg-logo="config/user_local.txt/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
 http://39.134.240.3/PLTV/1/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
+#EXTINF:-1 tvg-id="124" tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
+#EXTINF:-1 tvg-id="124" tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
+#EXTINF:-1 tvg-id="124" tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://39.134.240.3/PLTV/1/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
+#EXTINF:-1 tvg-id="124" tvg-name="NewTV军旅剧场" tvg-logo="config/user_local.txt/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://39.134.240.2/PLTV/1/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
+#EXTINF:-1 tvg-id="125" tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
+#EXTINF:-1 tvg-id="125" tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
 http://39.134.240.2/PLTV/1/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
+#EXTINF:-1 tvg-id="125" tvg-name="NewTV军事评论" tvg-logo="config/user_local.txt/NewTV军事评论.png" group-title="🏛综合频道",NewTV军事评论
 http://39.134.240.3/PLTV/1/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="config/user_local.txt/NewTV魅力潇湘.png" group-title="🏛综合频道",NewTV魅力潇湘
+#EXTINF:-1 tvg-id="126" tvg-name="NewTV魅力潇湘" tvg-logo="config/user_local.txt/NewTV魅力潇湘.png" group-title="🏛综合频道",NewTV魅力潇湘
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+#EXTINF:-1 tvg-id="127" tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+#EXTINF:-1 tvg-id="127" tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+#EXTINF:-1 tvg-id="127" tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
 http://39.134.240.3/PLTV/1/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
+#EXTINF:-1 tvg-id="127" tvg-name="NewTV明星大片" tvg-logo="config/user_local.txt/NewTV明星大片.png" group-title="🏛综合频道",NewTV明星大片
 http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+#EXTINF:-1 tvg-id="128" tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+#EXTINF:-1 tvg-id="128" tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
 http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
+#EXTINF:-1 tvg-id="128" tvg-name="NewTV农业致富" tvg-logo="config/user_local.txt/NewTV农业致富.png" group-title="🏛综合频道",NewTV农业致富
 http://39.134.240.3/PLTV/1/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+#EXTINF:-1 tvg-id="129" tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+#EXTINF:-1 tvg-id="129" tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+#EXTINF:-1 tvg-id="129" tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+#EXTINF:-1 tvg-id="129" tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
+#EXTINF:-1 tvg-id="129" tvg-name="NewTV武搏世界" tvg-logo="config/user_local.txt/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+#EXTINF:-1 tvg-id="130" tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+#EXTINF:-1 tvg-id="130" tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
 http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+#EXTINF:-1 tvg-id="130" tvg-name="NewTV中国功夫" tvg-logo="config/user_local.txt/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
 http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
