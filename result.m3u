@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.100.60:18755/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-03-24 21:32:22
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-03-24 21:32:39
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
@@ -892,9 +892,9 @@ http://39.134.240.3/PLTV/1/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="NewTV古装剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV古装剧场.png" group-title="🏛综合频道",NewTV古装剧场
 http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="NewTV海外剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
-http://39.134.240.2/PLTV/1/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="NewTV海外剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
 http://39.134.240.3/PLTV/1/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="NewTV海外剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV海外剧场.png" group-title="🏛综合频道",NewTV海外剧场
+http://39.134.240.2/PLTV/1/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="NewTV家庭剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://39.134.240.2/PLTV/1/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="NewTV家庭剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
@@ -902,17 +902,17 @@ http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="NewTV家庭剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV家庭剧场.png" group-title="🏛综合频道",NewTV家庭剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-id="112" tvg-name="NewTV金牌综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
-http://39.134.240.3/PLTV/1/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="NewTV金牌综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
 http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="NewTV金牌综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV金牌综艺.png" group-title="🏛综合频道",NewTV金牌综艺
+http://39.134.240.3/PLTV/1/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="NewTV精品大剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://39.134.240.2/PLTV/1/224/3221225630/index.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="NewTV精品大剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品大剧.png" group-title="🏛综合频道",NewTV精品大剧
 http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="NewTV精品纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
-http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="NewTV精品纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
 http://39.134.240.3/PLTV/1/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="NewTV精品纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品纪录.png" group-title="🏛综合频道",NewTV精品纪录
+http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="NewTV军旅剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-id="115" tvg-name="NewTV军旅剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV军旅剧场.png" group-title="🏛综合频道",NewTV军旅剧场
@@ -942,6 +942,6 @@ https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&tx
 #EXTINF:-1 tvg-id="119" tvg-name="NewTV武搏世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV武搏世界.png" group-title="🏛综合频道",NewTV武搏世界
 https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=03298ae9deb5c83deb40b7de9c1e2218&wsTime=1774223905
 #EXTINF:-1 tvg-id="120" tvg-name="NewTV中国功夫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
-http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="NewTV中国功夫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
 http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="NewTV中国功夫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV中国功夫.png" group-title="🏛综合频道",NewTV中国功夫
+http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
