@@ -1,5 +1,5 @@
-🕘️正在更新中，刷新获取最新结果,#genre#
-2026-04-02 19:59:58,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+🕘️更新时间,#genre#
+2026-04-02 20:00:22,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
 
 📺央视频道,#genre#
 CCTV-1,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
@@ -467,30 +467,30 @@ NewTV黑莓动画,http://39.134.240.3/PLTV/1/224/3221225646/index.m3u8
 🏛综合频道,#genre#
 NewTV爱情喜剧,http://39.134.240.3/PLTV/1/224/3221225634/index.m3u8
 NewTV爱情喜剧,http://39.134.240.2/PLTV/1/224/3221225634/index.m3u8
-NewTV古装剧场,http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
 NewTV古装剧场,http://39.134.240.3/PLTV/1/224/3221225636/index.m3u8
+NewTV古装剧场,http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
 NewTV海外剧场,http://39.134.240.3/PLTV/1/224/3221225642/index.m3u8
 NewTV海外剧场,http://39.134.240.2/PLTV/1/224/3221225642/index.m3u8
-NewTV家庭剧场,http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
 NewTV家庭剧场,http://39.134.240.2/PLTV/1/224/3221225644/index.m3u8
-NewTV金牌综艺,http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
+NewTV家庭剧场,http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
 NewTV金牌综艺,http://39.134.240.3/PLTV/1/224/3221225668/index.m3u8
+NewTV金牌综艺,http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
 NewTV精品大剧,http://39.134.240.2/PLTV/1/224/3221225630/index.m3u8
 NewTV精品大剧,http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
-NewTV精品纪录,http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
 NewTV精品纪录,http://39.134.240.3/PLTV/1/224/3221225648/index.m3u8
-NewTV军旅剧场,http://39.134.240.2/PLTV/1/224/3221225640/index.m3u8
+NewTV精品纪录,http://39.134.240.2/PLTV/1/224/3221225648/index.m3u8
 NewTV军旅剧场,http://39.134.240.3/PLTV/1/224/3221225640/index.m3u8
-NewTV军事评论,http://39.134.240.3/PLTV/1/224/3221225652/index.m3u8
+NewTV军旅剧场,http://39.134.240.2/PLTV/1/224/3221225640/index.m3u8
 NewTV军事评论,http://39.134.240.2/PLTV/1/224/3221225652/index.m3u8
-NewTV明星大片,http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
+NewTV军事评论,http://39.134.240.3/PLTV/1/224/3221225652/index.m3u8
 NewTV明星大片,http://39.134.240.3/PLTV/1/224/3221225650/index.m3u8
-NewTV农业致富,http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
+NewTV明星大片,http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
 NewTV农业致富,http://39.134.240.3/PLTV/1/224/3221225654/index.m3u8
-NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=c8c4613abfc2ab6f431bbcb57bcbbeca&wsTime=1774569490
-NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=4897b034936a159bd5d48a030112333b&wsTime=1774828688
-NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=42812b7b672d7316686365f66393e220&wsTime=1774396700
+NewTV农业致富,http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
+NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=16f58721d4f5e435d7bf6cce80dc6faf&wsTime=1775088070
 NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=1de268fe489b0ea776eef0a9ca1f3910&wsTime=1774483113
-NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=0e0c47b814bad2a3312916da42aecf13&wsTime=1774655892
-NewTV中国功夫,http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
+NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=42812b7b672d7316686365f66393e220&wsTime=1774396700
+NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=4897b034936a159bd5d48a030112333b&wsTime=1774828688
+NewTV武搏世界,http://111.23.232.117/180000001002/00000001000000000064000000308859/main.m3u8
 NewTV中国功夫,http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
+NewTV中国功夫,http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
