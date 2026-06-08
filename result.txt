@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-08 13:09:02,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
+2026-06-09 01:08:40,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
 
 📺央视频道,#genre#
 CCTV-1,http://39.134.13.35:6610/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
@@ -459,11 +459,11 @@ NewTV古装剧场,http://39.134.240.2/PLTV/1/224/3221225636/index.m3u8
 NewTV古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 NewTV海外剧场,http://39.134.240.3/PLTV/1/224/3221225642/index.m3u8
 NewTV海外剧场,http://39.134.240.2/PLTV/1/224/3221225642/index.m3u8
-NewTV家庭剧场,http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
 NewTV家庭剧场,http://39.134.240.2/PLTV/1/224/3221225644/index.m3u8
 NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-NewTV金牌综艺,http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
+NewTV家庭剧场,http://39.134.240.3/PLTV/1/224/3221225644/index.m3u8
 NewTV金牌综艺,http://39.134.240.3/PLTV/1/224/3221225668/index.m3u8
+NewTV金牌综艺,http://39.134.240.2/PLTV/1/224/3221225668/index.m3u8
 NewTV精品大剧,http://39.134.240.2/PLTV/1/224/3221225630/index.m3u8
 NewTV精品大剧,http://39.134.240.3/PLTV/1/224/3221225630/index.m3u8
 NewTV精品纪录,http://39.134.240.3/PLTV/1/224/3221225648/index.m3u8
@@ -476,10 +476,10 @@ NewTV明星大片,http://39.134.240.3/PLTV/1/224/3221225650/index.m3u8
 NewTV明星大片,http://39.134.240.2/PLTV/1/224/3221225650/index.m3u8
 NewTV农业致富,http://39.134.240.3/PLTV/1/224/3221225654/index.m3u8
 NewTV农业致富,http://39.134.240.2/PLTV/1/224/3221225654/index.m3u8
-NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=1de268fe489b0ea776eef0a9ca1f3910&wsTime=1774483113
-NewTV武搏世界,http://111.23.232.117/180000001002/00000001000000000064000000308859/index.m3u8?
 NewTV武搏世界,http://111.23.232.117/180000001002/00000001000000000064000000308859/main.m3u8
+NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=1de268fe489b0ea776eef0a9ca1f3910&wsTime=1774483113
 NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=4897b034936a159bd5d48a030112333b&wsTime=1774828688
 NewTV武搏世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=a91f05011993941d08d8ed7fa2fd274c&wsTime=1776038324
-NewTV中国功夫,http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
+NewTV武搏世界,http://111.23.232.117/180000001002/00000001000000000064000000308859/index.m3u8?
 NewTV中国功夫,http://39.134.240.3/PLTV/1/224/3221225503/index.m3u8
+NewTV中国功夫,http://39.134.240.2/PLTV/1/224/3221225503/index.m3u8
